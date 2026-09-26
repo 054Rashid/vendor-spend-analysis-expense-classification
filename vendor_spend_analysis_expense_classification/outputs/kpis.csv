@@ -1,0 +1,2 @@
+transactions,vendors,clean_spend_usd,vendor_mapping_success_rate,classification_accuracy_before_correction,category_mismatches,missing_categories,duplicates,spend_anomalies,policy_exceptions,qa_exceptions
+18000,180,12366537.83,1.0,0.9643,9406,118,358,291,9618,19791

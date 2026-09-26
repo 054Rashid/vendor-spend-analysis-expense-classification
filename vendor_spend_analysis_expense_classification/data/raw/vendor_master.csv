@@ -1,0 +1,181 @@
+vendor_id,canonical_vendor_name,canonical_category,contracted_flag
+V0001,Evergreen Services,Other,1
+V0002,Northstar Labs,Software & SaaS,1
+V0003,Atlas Labs,Software & SaaS,0
+V0004,Vertex Labs,Software & SaaS,1
+V0005,Summit Solutions,Cloud & Hosting,0
+V0006,Nova Systems,Other,0
+V0007,Nova Technologies,Cloud & Hosting,1
+V0008,Nova Group,Office Supplies,1
+V0009,BlueSky Systems,Professional Services,1
+V0010,Pioneer Cloud,Software & SaaS,1
+V0011,Vertex Consulting,Software & SaaS,1
+V0012,BlueSky Cloud,Other,1
+V0013,Northstar Solutions,Office Supplies,1
+V0014,Vertex Technologies,Travel,1
+V0015,Apex Cloud,Other,0
+V0016,Quantum Technologies,Cloud & Hosting,0
+V0017,Vertex Labs,Software & SaaS,0
+V0018,Nova Group,Facilities,1
+V0019,Quantum Consulting,Cloud & Hosting,1
+V0020,Apex Technologies,Facilities,0
+V0021,Apex Technologies,Office Supplies,1
+V0022,Nova Technologies,Travel,1
+V0023,Atlas Solutions,Telecommunications,1
+V0024,BlueSky Cloud,Telecommunications,0
+V0025,Evergreen Consulting,Travel,1
+V0026,BlueSky Solutions,Office Supplies,1
+V0027,Vertex Group,Office Supplies,1
+V0028,Vertex Labs,Office Supplies,1
+V0029,Nova Labs,Travel,1
+V0030,Vertex Group,Other,1
+V0031,Quantum Services,Office Supplies,0
+V0032,Apex Labs,Hardware,1
+V0033,Atlas Solutions,Travel,0
+V0034,Nimbus Group,Cloud & Hosting,0
+V0035,Summit Services,Professional Services,1
+V0036,Atlas Technologies,Travel,1
+V0037,Nimbus Group,Telecommunications,1
+V0038,Apex Solutions,Marketing,1
+V0039,BlueSky Group,Other,1
+V0040,Cobalt Cloud,Other,1
+V0041,Quantum Technologies,Travel,1
+V0042,Atlas Systems,Professional Services,1
+V0043,Cobalt Services,Facilities,1
+V0044,Quantum Group,Hardware,1
+V0045,Atlas Solutions,Hardware,1
+V0046,Evergreen Technologies,Telecommunications,0
+V0047,Summit Solutions,Cloud & Hosting,1
+V0048,Cobalt Solutions,Travel,1
+V0049,Atlas Services,Facilities,1
+V0050,Summit Labs,Hardware,1
+V0051,Pioneer Systems,Office Supplies,1
+V0052,Nova Systems,Facilities,1
+V0053,BlueSky Consulting,Cloud & Hosting,1
+V0054,Quantum Solutions,Office Supplies,1
+V0055,Vertex Group,Marketing,1
+V0056,Apex Solutions,Cloud & Hosting,1
+V0057,Nimbus Solutions,Software & SaaS,1
+V0058,Atlas Systems,Professional Services,1
+V0059,Quantum Solutions,Professional Services,1
+V0060,Evergreen Cloud,Office Supplies,0
+V0061,Summit Group,Cloud & Hosting,1
+V0062,Nova Technologies,Telecommunications,0
+V0063,Nova Technologies,Telecommunications,1
+V0064,Summit Group,Marketing,0
+V0065,Evergreen Solutions,Travel,0
+V0066,Evergreen Labs,Telecommunications,0
+V0067,Apex Group,Hardware,1
+V0068,Cobalt Solutions,Marketing,1
+V0069,Summit Cloud,Facilities,1
+V0070,Quantum Labs,Travel,0
+V0071,Apex Services,Facilities,1
+V0072,BlueSky Group,Cloud & Hosting,1
+V0073,Quantum Systems,Other,1
+V0074,Evergreen Technologies,Travel,1
+V0075,Vertex Consulting,Facilities,1
+V0076,Nova Systems,Facilities,0
+V0077,Northstar Technologies,Office Supplies,1
+V0078,Pioneer Cloud,Cloud & Hosting,0
+V0079,Atlas Solutions,Cloud & Hosting,0
+V0080,Apex Labs,Hardware,1
+V0081,Vertex Consulting,Marketing,0
+V0082,Northstar Consulting,Marketing,1
+V0083,Summit Group,Software & SaaS,1
+V0084,Apex Solutions,Marketing,1
+V0085,Pioneer Labs,Travel,1
+V0086,BlueSky Group,Telecommunications,1
+V0087,Nova Systems,Travel,1
+V0088,Pioneer Cloud,Hardware,1
+V0089,Nimbus Consulting,Hardware,1
+V0090,Evergreen Consulting,Office Supplies,1
+V0091,Nimbus Labs,Office Supplies,1
+V0092,Northstar Systems,Cloud & Hosting,1
+V0093,Atlas Group,Office Supplies,1
+V0094,BlueSky Group,Travel,0
+V0095,Apex Systems,Other,1
+V0096,Summit Labs,Facilities,1
+V0097,Atlas Technologies,Telecommunications,0
+V0098,Evergreen Services,Marketing,1
+V0099,Cobalt Cloud,Hardware,1
+V0100,Northstar Solutions,Software & SaaS,0
+V0101,Apex Cloud,Professional Services,1
+V0102,Apex Cloud,Professional Services,1
+V0103,Quantum Consulting,Telecommunications,1
+V0104,Summit Consulting,Facilities,1
+V0105,BlueSky Solutions,Professional Services,1
+V0106,Atlas Labs,Telecommunications,1
+V0107,Northstar Solutions,Other,1
+V0108,BlueSky Solutions,Office Supplies,1
+V0109,Summit Group,Software & SaaS,1
+V0110,Summit Solutions,Telecommunications,1
+V0111,Northstar Labs,Cloud & Hosting,1
+V0112,Northstar Technologies,Cloud & Hosting,1
+V0113,Quantum Cloud,Professional Services,1
+V0114,Evergreen Labs,Other,1
+V0115,Evergreen Consulting,Cloud & Hosting,1
+V0116,Evergreen Systems,Facilities,1
+V0117,Apex Solutions,Cloud & Hosting,1
+V0118,Nimbus Labs,Hardware,1
+V0119,Quantum Cloud,Facilities,1
+V0120,Quantum Group,Other,0
+V0121,Nova Labs,Other,0
+V0122,BlueSky Labs,Facilities,1
+V0123,BlueSky Technologies,Software & SaaS,1
+V0124,Vertex Labs,Other,0
+V0125,Evergreen Cloud,Marketing,0
+V0126,Quantum Systems,Office Supplies,1
+V0127,Summit Consulting,Marketing,0
+V0128,Northstar Solutions,Marketing,1
+V0129,Atlas Cloud,Hardware,1
+V0130,Evergreen Systems,Hardware,0
+V0131,Evergreen Group,Other,1
+V0132,Apex Solutions,Facilities,1
+V0133,Cobalt Technologies,Telecommunications,1
+V0134,Vertex Systems,Marketing,1
+V0135,Vertex Systems,Facilities,0
+V0136,Northstar Group,Marketing,1
+V0137,BlueSky Services,Telecommunications,1
+V0138,Nimbus Consulting,Cloud & Hosting,1
+V0139,Apex Group,Facilities,1
+V0140,Northstar Systems,Marketing,1
+V0141,Quantum Consulting,Other,1
+V0142,Northstar Cloud,Facilities,1
+V0143,Northstar Services,Marketing,1
+V0144,Northstar Services,Professional Services,1
+V0145,Vertex Technologies,Telecommunications,1
+V0146,Summit Group,Travel,1
+V0147,Summit Labs,Cloud & Hosting,0
+V0148,Vertex Solutions,Other,1
+V0149,Cobalt Systems,Hardware,1
+V0150,Apex Group,Marketing,1
+V0151,Northstar Systems,Travel,1
+V0152,Atlas Technologies,Office Supplies,1
+V0153,Vertex Services,Professional Services,1
+V0154,Apex Cloud,Professional Services,0
+V0155,Pioneer Cloud,Other,0
+V0156,BlueSky Services,Software & SaaS,1
+V0157,Quantum Technologies,Telecommunications,0
+V0158,Northstar Cloud,Marketing,1
+V0159,Quantum Services,Software & SaaS,0
+V0160,Cobalt Solutions,Office Supplies,1
+V0161,Nimbus Cloud,Cloud & Hosting,0
+V0162,Apex Labs,Professional Services,1
+V0163,Apex Consulting,Professional Services,1
+V0164,Evergreen Systems,Facilities,1
+V0165,BlueSky Technologies,Marketing,1
+V0166,Summit Services,Office Supplies,1
+V0167,Summit Cloud,Facilities,1
+V0168,Cobalt Services,Software & SaaS,0
+V0169,Apex Solutions,Facilities,1
+V0170,Nimbus Labs,Office Supplies,1
+V0171,Summit Systems,Travel,0
+V0172,Nimbus Cloud,Office Supplies,0
+V0173,Quantum Group,Travel,1
+V0174,Nova Technologies,Marketing,1
+V0175,Pioneer Solutions,Marketing,1
+V0176,Nova Group,Professional Services,1
+V0177,BlueSky Solutions,Facilities,1
+V0178,Northstar Services,Facilities,1
+V0179,Northstar Technologies,Office Supplies,1
+V0180,Cobalt Labs,Marketing,1

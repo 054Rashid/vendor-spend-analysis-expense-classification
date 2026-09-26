@@ -1,0 +1,10 @@
+{
+  "synthetic": true,
+  "seed": 20260925,
+  "transactions": 18000,
+  "vendors": 180,
+  "controlled_defects": 1628,
+  "qa_exceptions": 19791,
+  "mapping_success": 1.0,
+  "pre_correction_accuracy": 0.9643
+}

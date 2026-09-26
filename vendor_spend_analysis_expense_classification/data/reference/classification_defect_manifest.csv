@@ -1,0 +1,1629 @@
+defect_id,rule_id,transaction_id,field,original_value,injected_value,note
+CLF00001,CLF-001,TXN0002242,vendor_name,Quantum Consulting,Quantum Consulting INC,Vendor naming variation
+CLF00002,CLF-001,TXN0004686,vendor_name,Quantum Solutions,Quantum Solutions LTD,Vendor naming variation
+CLF00003,CLF-001,TXN0017944,vendor_name,BlueSky Cloud,BlueSky Cloud,Vendor naming variation
+CLF00004,CLF-001,TXN0008661,vendor_name,Evergreen Technologies,EVERGREEN TECHNOLOGIES,Vendor naming variation
+CLF00005,CLF-001,TXN0000635,vendor_name,Apex Cloud,Apex Cloud,Vendor naming variation
+CLF00006,CLF-001,TXN0017029,vendor_name,Summit Consulting,Summit Consulting,Vendor naming variation
+CLF00007,CLF-001,TXN0017331,vendor_name,Quantum Services,Quantum Services,Vendor naming variation
+CLF00008,CLF-001,TXN0012298,vendor_name,Quantum Group,Quantum Group LTD,Vendor naming variation
+CLF00009,CLF-001,TXN0004827,vendor_name,Vertex Technologies,Vertex Technologies,Vendor naming variation
+CLF00010,CLF-001,TXN0001842,vendor_name,Atlas Systems,Atlas Systems,Vendor naming variation
+CLF00011,CLF-001,TXN0013717,vendor_name,Nimbus Solutions,Nimbus Solutions,Vendor naming variation
+CLF00012,CLF-001,TXN0014620,vendor_name,Apex Services,APEX SERVICES,Vendor naming variation
+CLF00013,CLF-001,TXN0014738,vendor_name,Pioneer Cloud,Pioneer Cloud,Vendor naming variation
+CLF00014,CLF-001,TXN0001241,vendor_name,Cobalt Systems,Cobalt Systems INC,Vendor naming variation
+CLF00015,CLF-001,TXN0017340,vendor_name,Northstar Solutions,NORTHSTAR SOLUTIONS,Vendor naming variation
+CLF00016,CLF-001,TXN0015324,vendor_name,Atlas Technologies,Atlas Technologies INC,Vendor naming variation
+CLF00017,CLF-001,TXN0013042,vendor_name,Evergreen Consulting,EVERGREEN CONSULTING,Vendor naming variation
+CLF00018,CLF-001,TXN0003189,vendor_name,Nimbus Cloud,Nimbus Cloud INC,Vendor naming variation
+CLF00019,CLF-001,TXN0014580,vendor_name,Quantum Group,Quantum Group LTD,Vendor naming variation
+CLF00020,CLF-001,TXN0006865,vendor_name,Vertex Solutions,Vertex Solns,Vendor naming variation
+CLF00021,CLF-001,TXN0001571,vendor_name,BlueSky Group,BlueSky Group,Vendor naming variation
+CLF00022,CLF-001,TXN0014890,vendor_name,BlueSky Technologies,BlueSky Technologies LTD,Vendor naming variation
+CLF00023,CLF-001,TXN0017705,vendor_name,Northstar Cloud,Northstar Cloud,Vendor naming variation
+CLF00024,CLF-001,TXN0009211,vendor_name,BlueSky Technologies,BlueSky Technologies,Vendor naming variation
+CLF00025,CLF-001,TXN0014698,vendor_name,Summit Solutions,SUMMIT SOLUTIONS,Vendor naming variation
+CLF00026,CLF-001,TXN0014519,vendor_name,Cobalt Services,COBALT SERVICES,Vendor naming variation
+CLF00027,CLF-001,TXN0016255,vendor_name,Apex Group,Apex Group LTD,Vendor naming variation
+CLF00028,CLF-001,TXN0016695,vendor_name,Nimbus Consulting,Nimbus Consulting,Vendor naming variation
+CLF00029,CLF-001,TXN0002125,vendor_name,Northstar Services,Northstar Services INC,Vendor naming variation
+CLF00030,CLF-001,TXN0002865,vendor_name,BlueSky Technologies,BlueSky Technologies,Vendor naming variation
+CLF00031,CLF-001,TXN0001761,vendor_name,Evergreen Consulting,Evergreen Consulting,Vendor naming variation
+CLF00032,CLF-001,TXN0013040,vendor_name,Atlas Labs,Atlas Labs INC,Vendor naming variation
+CLF00033,CLF-001,TXN0002538,vendor_name,Apex Cloud,Apex Cloud LTD,Vendor naming variation
+CLF00034,CLF-001,TXN0007117,vendor_name,Atlas Technologies,Atlas Technologies LTD,Vendor naming variation
+CLF00035,CLF-001,TXN0015973,vendor_name,Nimbus Group,Nimbus Group LTD,Vendor naming variation
+CLF00036,CLF-001,TXN0014334,vendor_name,Evergreen Systems,Evergreen Systems,Vendor naming variation
+CLF00037,CLF-001,TXN0002777,vendor_name,Northstar Solutions,Northstar Solutions,Vendor naming variation
+CLF00038,CLF-001,TXN0002929,vendor_name,Summit Consulting,Summit Consulting,Vendor naming variation
+CLF00039,CLF-001,TXN0010590,vendor_name,BlueSky Services,BLUESKY SERVICES,Vendor naming variation
+CLF00040,CLF-001,TXN0005177,vendor_name,Vertex Consulting,VERTEX CONSULTING,Vendor naming variation
+CLF00041,CLF-001,TXN0002299,vendor_name,Vertex Technologies,VERTEX TECHNOLOGIES,Vendor naming variation
+CLF00042,CLF-001,TXN0010617,vendor_name,Evergreen Cloud,Evergreen Cloud INC,Vendor naming variation
+CLF00043,CLF-001,TXN0005332,vendor_name,Atlas Systems,Atlas Systems,Vendor naming variation
+CLF00044,CLF-001,TXN0014002,vendor_name,Atlas Systems,Atlas Systems LTD,Vendor naming variation
+CLF00045,CLF-001,TXN0009425,vendor_name,Pioneer Cloud,Pioneer Cloud INC,Vendor naming variation
+CLF00046,CLF-001,TXN0002814,vendor_name,Northstar Group,Northstar Group LTD,Vendor naming variation
+CLF00047,CLF-001,TXN0016985,vendor_name,Vertex Systems,Vertex Systems,Vendor naming variation
+CLF00048,CLF-001,TXN0012835,vendor_name,Vertex Labs,Vertex Labs,Vendor naming variation
+CLF00049,CLF-001,TXN0004649,vendor_name,Apex Labs,Apex Labs INC,Vendor naming variation
+CLF00050,CLF-001,TXN0009615,vendor_name,Evergreen Consulting,Evergreen Consulting LTD,Vendor naming variation
+CLF00051,CLF-001,TXN0011685,vendor_name,Nova Labs,Nova Labs,Vendor naming variation
+CLF00052,CLF-001,TXN0012093,vendor_name,Northstar Services,Northstar Services,Vendor naming variation
+CLF00053,CLF-001,TXN0009002,vendor_name,Quantum Services,Quantum Services,Vendor naming variation
+CLF00054,CLF-001,TXN0000642,vendor_name,Evergreen Consulting,Evergreen Consulting INC,Vendor naming variation
+CLF00055,CLF-001,TXN0003247,vendor_name,Vertex Group,Vertex Group,Vendor naming variation
+CLF00056,CLF-001,TXN0013141,vendor_name,Atlas Technologies,Atlas Technologies,Vendor naming variation
+CLF00057,CLF-001,TXN0013360,vendor_name,Northstar Systems,Northstar Systems,Vendor naming variation
+CLF00058,CLF-001,TXN0012882,vendor_name,Pioneer Cloud,PIONEER CLOUD,Vendor naming variation
+CLF00059,CLF-001,TXN0005604,vendor_name,Evergreen Labs,EVERGREEN LABS,Vendor naming variation
+CLF00060,CLF-001,TXN0002270,vendor_name,Nimbus Consulting,Nimbus Consulting,Vendor naming variation
+CLF00061,CLF-001,TXN0001172,vendor_name,Evergreen Consulting,Evergreen Consulting,Vendor naming variation
+CLF00062,CLF-001,TXN0017526,vendor_name,BlueSky Cloud,BlueSky Cloud,Vendor naming variation
+CLF00063,CLF-001,TXN0017444,vendor_name,Vertex Technologies,VERTEX TECHNOLOGIES,Vendor naming variation
+CLF00064,CLF-001,TXN0017602,vendor_name,BlueSky Cloud,BlueSky Cloud,Vendor naming variation
+CLF00065,CLF-001,TXN0004141,vendor_name,Northstar Systems,Northstar Systems LTD,Vendor naming variation
+CLF00066,CLF-001,TXN0010589,vendor_name,BlueSky Cloud,BLUESKY CLOUD,Vendor naming variation
+CLF00067,CLF-001,TXN0009123,vendor_name,Quantum Labs,QUANTUM LABS,Vendor naming variation
+CLF00068,CLF-001,TXN0010861,vendor_name,Northstar Technologies,Northstar Technologies INC,Vendor naming variation
+CLF00069,CLF-001,TXN0011395,vendor_name,BlueSky Solutions,BlueSky Solutions INC,Vendor naming variation
+CLF00070,CLF-001,TXN0012307,vendor_name,Northstar Labs,Northstar Labs LTD,Vendor naming variation
+CLF00071,CLF-001,TXN0000429,vendor_name,Summit Solutions,Summit Solutions,Vendor naming variation
+CLF00072,CLF-001,TXN0012296,vendor_name,Quantum Group,Quantum Group INC,Vendor naming variation
+CLF00073,CLF-001,TXN0014716,vendor_name,Northstar Technologies,Northstar Technologies,Vendor naming variation
+CLF00074,CLF-001,TXN0006858,vendor_name,Pioneer Cloud,PIONEER CLOUD,Vendor naming variation
+CLF00075,CLF-001,TXN0007221,vendor_name,Atlas Solutions,Atlas Solutions INC,Vendor naming variation
+CLF00076,CLF-001,TXN0007356,vendor_name,BlueSky Solutions,BLUESKY SOLUTIONS,Vendor naming variation
+CLF00077,CLF-001,TXN0003393,vendor_name,Summit Services,Summit Services,Vendor naming variation
+CLF00078,CLF-001,TXN0016815,vendor_name,Apex Technologies,Apex Technologies LTD,Vendor naming variation
+CLF00079,CLF-001,TXN0015569,vendor_name,BlueSky Technologies,BlueSky Tech,Vendor naming variation
+CLF00080,CLF-001,TXN0007570,vendor_name,Quantum Systems,Quantum Systems LTD,Vendor naming variation
+CLF00081,CLF-001,TXN0003684,vendor_name,Northstar Consulting,Northstar Consulting,Vendor naming variation
+CLF00082,CLF-001,TXN0003557,vendor_name,Evergreen Services,Evergreen Services,Vendor naming variation
+CLF00083,CLF-001,TXN0010400,vendor_name,BlueSky Group,BlueSky Group INC,Vendor naming variation
+CLF00084,CLF-001,TXN0003869,vendor_name,BlueSky Group,BlueSky Group,Vendor naming variation
+CLF00085,CLF-001,TXN0017087,vendor_name,Northstar Solutions,Northstar Solns,Vendor naming variation
+CLF00086,CLF-001,TXN0009282,vendor_name,Cobalt Cloud,Cobalt Cloud LTD,Vendor naming variation
+CLF00087,CLF-001,TXN0015803,vendor_name,Apex Cloud,Apex Cloud,Vendor naming variation
+CLF00088,CLF-001,TXN0002853,vendor_name,BlueSky Group,BlueSky Group LTD,Vendor naming variation
+CLF00089,CLF-001,TXN0015348,vendor_name,Quantum Services,Quantum Services INC,Vendor naming variation
+CLF00090,CLF-001,TXN0008961,vendor_name,Summit Group,Summit Group INC,Vendor naming variation
+CLF00091,CLF-001,TXN0015712,vendor_name,Summit Labs,SUMMIT LABS,Vendor naming variation
+CLF00092,CLF-001,TXN0013990,vendor_name,BlueSky Services,BlueSky Services LTD,Vendor naming variation
+CLF00093,CLF-001,TXN0007003,vendor_name,Evergreen Labs,Evergreen Labs INC,Vendor naming variation
+CLF00094,CLF-001,TXN0016066,vendor_name,Northstar Labs,Northstar Labs,Vendor naming variation
+CLF00095,CLF-001,TXN0003140,vendor_name,Northstar Services,Northstar Services,Vendor naming variation
+CLF00096,CLF-001,TXN0004423,vendor_name,Vertex Solutions,VERTEX SOLUTIONS,Vendor naming variation
+CLF00097,CLF-001,TXN0013793,vendor_name,Nova Group,NOVA GROUP,Vendor naming variation
+CLF00098,CLF-001,TXN0006682,vendor_name,Northstar Technologies,Northstar Technologies LTD,Vendor naming variation
+CLF00099,CLF-001,TXN0016704,vendor_name,Vertex Solutions,Vertex Solutions,Vendor naming variation
+CLF00100,CLF-001,TXN0005192,vendor_name,Summit Cloud,Summit Cloud LTD,Vendor naming variation
+CLF00101,CLF-001,TXN0016223,vendor_name,Evergreen Group,Evergreen Group LTD,Vendor naming variation
+CLF00102,CLF-001,TXN0001533,vendor_name,Northstar Technologies,Northstar Technologies,Vendor naming variation
+CLF00103,CLF-001,TXN0015930,vendor_name,Apex Cloud,Apex Cloud LTD,Vendor naming variation
+CLF00104,CLF-001,TXN0009661,vendor_name,Atlas Cloud,Atlas Cloud,Vendor naming variation
+CLF00105,CLF-001,TXN0008614,vendor_name,Summit Solutions,Summit Solns,Vendor naming variation
+CLF00106,CLF-001,TXN0015481,vendor_name,Evergreen Systems,Evergreen Systems,Vendor naming variation
+CLF00107,CLF-001,TXN0017935,vendor_name,Evergreen Cloud,Evergreen Cloud,Vendor naming variation
+CLF00108,CLF-001,TXN0002047,vendor_name,Vertex Labs,VERTEX LABS,Vendor naming variation
+CLF00109,CLF-001,TXN0013671,vendor_name,Nimbus Labs,Nimbus Labs,Vendor naming variation
+CLF00110,CLF-001,TXN0002379,vendor_name,BlueSky Consulting,BlueSky Consulting LTD,Vendor naming variation
+CLF00111,CLF-001,TXN0002743,vendor_name,Evergreen Technologies,EVERGREEN TECHNOLOGIES,Vendor naming variation
+CLF00112,CLF-001,TXN0014946,vendor_name,Atlas Solutions,Atlas Solutions INC,Vendor naming variation
+CLF00113,CLF-001,TXN0011716,vendor_name,Evergreen Cloud,Evergreen Cloud INC,Vendor naming variation
+CLF00114,CLF-001,TXN0009066,vendor_name,Pioneer Cloud,PIONEER CLOUD,Vendor naming variation
+CLF00115,CLF-001,TXN0009948,vendor_name,Northstar Technologies,NORTHSTAR TECHNOLOGIES,Vendor naming variation
+CLF00116,CLF-001,TXN0009760,vendor_name,Atlas Systems,Atlas Systems,Vendor naming variation
+CLF00117,CLF-001,TXN0010842,vendor_name,Nova Systems,Nova Systems LTD,Vendor naming variation
+CLF00118,CLF-001,TXN0006133,vendor_name,Nova Technologies,Nova Technologies,Vendor naming variation
+CLF00119,CLF-001,TXN0003305,vendor_name,BlueSky Services,BlueSky Services INC,Vendor naming variation
+CLF00120,CLF-001,TXN0010490,vendor_name,Northstar Consulting,NORTHSTAR CONSULTING,Vendor naming variation
+CLF00121,CLF-001,TXN0009298,vendor_name,Vertex Consulting,Vertex Consulting LTD,Vendor naming variation
+CLF00122,CLF-001,TXN0000129,vendor_name,Evergreen Technologies,Evergreen Technologies LTD,Vendor naming variation
+CLF00123,CLF-001,TXN0011026,vendor_name,BlueSky Labs,BlueSky Labs LTD,Vendor naming variation
+CLF00124,CLF-001,TXN0017717,vendor_name,Summit Solutions,Summit Solutions LTD,Vendor naming variation
+CLF00125,CLF-001,TXN0016794,vendor_name,Cobalt Services,Cobalt Services,Vendor naming variation
+CLF00126,CLF-001,TXN0011979,vendor_name,Nimbus Cloud,Nimbus Cloud,Vendor naming variation
+CLF00127,CLF-001,TXN0014338,vendor_name,Atlas Solutions,ATLAS SOLUTIONS,Vendor naming variation
+CLF00128,CLF-001,TXN0012039,vendor_name,Apex Consulting,Apex Consulting LTD,Vendor naming variation
+CLF00129,CLF-001,TXN0007337,vendor_name,Summit Group,Summit Group LTD,Vendor naming variation
+CLF00130,CLF-001,TXN0007738,vendor_name,BlueSky Consulting,BlueSky Consulting LTD,Vendor naming variation
+CLF00131,CLF-001,TXN0016495,vendor_name,Apex Solutions,APEX SOLUTIONS,Vendor naming variation
+CLF00132,CLF-001,TXN0001274,vendor_name,Summit Labs,Summit Labs,Vendor naming variation
+CLF00133,CLF-001,TXN0009484,vendor_name,Quantum Technologies,QUANTUM TECHNOLOGIES,Vendor naming variation
+CLF00134,CLF-001,TXN0017458,vendor_name,Apex Solutions,APEX SOLUTIONS,Vendor naming variation
+CLF00135,CLF-001,TXN0014795,vendor_name,Quantum Consulting,Quantum Consulting INC,Vendor naming variation
+CLF00136,CLF-001,TXN0010408,vendor_name,Evergreen Solutions,EVERGREEN SOLUTIONS,Vendor naming variation
+CLF00137,CLF-001,TXN0007972,vendor_name,Summit Labs,Summit Labs,Vendor naming variation
+CLF00138,CLF-001,TXN0009952,vendor_name,Pioneer Solutions,Pioneer Solutions,Vendor naming variation
+CLF00139,CLF-001,TXN0003587,vendor_name,Atlas Labs,Atlas Labs INC,Vendor naming variation
+CLF00140,CLF-001,TXN0008811,vendor_name,Quantum Services,Quantum Services INC,Vendor naming variation
+CLF00141,CLF-001,TXN0009626,vendor_name,Northstar Technologies,Northstar Technologies INC,Vendor naming variation
+CLF00142,CLF-001,TXN0011186,vendor_name,Vertex Group,Vertex Group LTD,Vendor naming variation
+CLF00143,CLF-001,TXN0017649,vendor_name,Cobalt Technologies,Cobalt Tech,Vendor naming variation
+CLF00144,CLF-001,TXN0005250,vendor_name,BlueSky Group,BlueSky Group,Vendor naming variation
+CLF00145,CLF-001,TXN0009785,vendor_name,Cobalt Cloud,Cobalt Cloud LTD,Vendor naming variation
+CLF00146,CLF-001,TXN0005404,vendor_name,Quantum Group,QUANTUM GROUP,Vendor naming variation
+CLF00147,CLF-001,TXN0013266,vendor_name,Pioneer Systems,PIONEER SYSTEMS,Vendor naming variation
+CLF00148,CLF-001,TXN0016017,vendor_name,Vertex Systems,Vertex Systems INC,Vendor naming variation
+CLF00149,CLF-001,TXN0009674,vendor_name,Summit Labs,Summit Labs,Vendor naming variation
+CLF00150,CLF-001,TXN0001243,vendor_name,Apex Technologies,APEX TECHNOLOGIES,Vendor naming variation
+CLF00151,CLF-001,TXN0006297,vendor_name,Northstar Solutions,Northstar Solns,Vendor naming variation
+CLF00152,CLF-001,TXN0005014,vendor_name,Quantum Consulting,QUANTUM CONSULTING,Vendor naming variation
+CLF00153,CLF-001,TXN0010547,vendor_name,Pioneer Cloud,Pioneer Cloud,Vendor naming variation
+CLF00154,CLF-001,TXN0013281,vendor_name,Northstar Labs,Northstar Labs,Vendor naming variation
+CLF00155,CLF-001,TXN0007688,vendor_name,Nova Technologies,Nova Technologies INC,Vendor naming variation
+CLF00156,CLF-001,TXN0010987,vendor_name,Summit Services,Summit Services,Vendor naming variation
+CLF00157,CLF-001,TXN0014341,vendor_name,Evergreen Services,EVERGREEN SERVICES,Vendor naming variation
+CLF00158,CLF-001,TXN0001232,vendor_name,BlueSky Technologies,BlueSky Technologies,Vendor naming variation
+CLF00159,CLF-001,TXN0014146,vendor_name,Northstar Group,Northstar Group,Vendor naming variation
+CLF00160,CLF-001,TXN0001909,vendor_name,Nimbus Labs,Nimbus Labs,Vendor naming variation
+CLF00161,CLF-001,TXN0006906,vendor_name,Quantum Systems,QUANTUM SYSTEMS,Vendor naming variation
+CLF00162,CLF-001,TXN0010753,vendor_name,Summit Solutions,Summit Solutions INC,Vendor naming variation
+CLF00163,CLF-001,TXN0015588,vendor_name,Evergreen Cloud,Evergreen Cloud INC,Vendor naming variation
+CLF00164,CLF-001,TXN0008339,vendor_name,Nova Labs,Nova Labs LTD,Vendor naming variation
+CLF00165,CLF-001,TXN0008424,vendor_name,Apex Cloud,APEX CLOUD,Vendor naming variation
+CLF00166,CLF-001,TXN0001694,vendor_name,Northstar Technologies,Northstar Technologies,Vendor naming variation
+CLF00167,CLF-001,TXN0016785,vendor_name,Quantum Group,Quantum Group INC,Vendor naming variation
+CLF00168,CLF-001,TXN0016907,vendor_name,Vertex Labs,VERTEX LABS,Vendor naming variation
+CLF00169,CLF-001,TXN0003897,vendor_name,Pioneer Cloud,Pioneer Cloud,Vendor naming variation
+CLF00170,CLF-001,TXN0006903,vendor_name,Evergreen Consulting,Evergreen Consulting LTD,Vendor naming variation
+CLF00171,CLF-001,TXN0012751,vendor_name,BlueSky Labs,BlueSky Labs,Vendor naming variation
+CLF00172,CLF-001,TXN0017211,vendor_name,Apex Cloud,Apex Cloud INC,Vendor naming variation
+CLF00173,CLF-001,TXN0015583,vendor_name,Nimbus Group,Nimbus Group,Vendor naming variation
+CLF00174,CLF-001,TXN0004601,vendor_name,Summit Cloud,Summit Cloud,Vendor naming variation
+CLF00175,CLF-001,TXN0004777,vendor_name,Vertex Consulting,Vertex Consulting INC,Vendor naming variation
+CLF00176,CLF-001,TXN0006349,vendor_name,Northstar Systems,Northstar Systems,Vendor naming variation
+CLF00177,CLF-001,TXN0015913,vendor_name,Summit Services,SUMMIT SERVICES,Vendor naming variation
+CLF00178,CLF-001,TXN0010303,vendor_name,Northstar Solutions,Northstar Solns,Vendor naming variation
+CLF00179,CLF-001,TXN0008627,vendor_name,Atlas Solutions,Atlas Solns,Vendor naming variation
+CLF00180,CLF-001,TXN0003617,vendor_name,Summit Solutions,Summit Solutions LTD,Vendor naming variation
+CLF00181,CLF-001,TXN0011715,vendor_name,Summit Services,Summit Services LTD,Vendor naming variation
+CLF00182,CLF-001,TXN0001192,vendor_name,Atlas Solutions,ATLAS SOLUTIONS,Vendor naming variation
+CLF00183,CLF-001,TXN0014871,vendor_name,Evergreen Consulting,Evergreen Consulting,Vendor naming variation
+CLF00184,CLF-001,TXN0012848,vendor_name,Vertex Group,Vertex Group,Vendor naming variation
+CLF00185,CLF-001,TXN0003151,vendor_name,Cobalt Solutions,Cobalt Solutions,Vendor naming variation
+CLF00186,CLF-001,TXN0001572,vendor_name,Apex Solutions,APEX SOLUTIONS,Vendor naming variation
+CLF00187,CLF-001,TXN0016884,vendor_name,Nova Systems,Nova Systems LTD,Vendor naming variation
+CLF00188,CLF-001,TXN0011082,vendor_name,Apex Cloud,Apex Cloud,Vendor naming variation
+CLF00189,CLF-001,TXN0011766,vendor_name,Nova Group,Nova Group,Vendor naming variation
+CLF00190,CLF-001,TXN0002062,vendor_name,Summit Consulting,Summit Consulting,Vendor naming variation
+CLF00191,CLF-001,TXN0000508,vendor_name,Quantum Cloud,QUANTUM CLOUD,Vendor naming variation
+CLF00192,CLF-001,TXN0000199,vendor_name,Summit Group,Summit Group,Vendor naming variation
+CLF00193,CLF-001,TXN0001702,vendor_name,Apex Cloud,APEX CLOUD,Vendor naming variation
+CLF00194,CLF-001,TXN0001344,vendor_name,BlueSky Solutions,BlueSky Solutions INC,Vendor naming variation
+CLF00195,CLF-001,TXN0005914,vendor_name,BlueSky Services,BlueSky Services LTD,Vendor naming variation
+CLF00196,CLF-001,TXN0006176,vendor_name,Nova Systems,Nova Systems,Vendor naming variation
+CLF00197,CLF-001,TXN0008102,vendor_name,Atlas Systems,Atlas Systems,Vendor naming variation
+CLF00198,CLF-001,TXN0003908,vendor_name,Nova Technologies,NOVA TECHNOLOGIES,Vendor naming variation
+CLF00199,CLF-001,TXN0009744,vendor_name,BlueSky Solutions,BlueSky Solutions INC,Vendor naming variation
+CLF00200,CLF-001,TXN0012253,vendor_name,Summit Cloud,Summit Cloud,Vendor naming variation
+CLF00201,CLF-001,TXN0015386,vendor_name,Atlas Solutions,Atlas Solns,Vendor naming variation
+CLF00202,CLF-001,TXN0001423,vendor_name,BlueSky Technologies,BlueSky Tech,Vendor naming variation
+CLF00203,CLF-001,TXN0004322,vendor_name,Northstar Cloud,NORTHSTAR CLOUD,Vendor naming variation
+CLF00204,CLF-001,TXN0006307,vendor_name,Evergreen Consulting,Evergreen Consulting,Vendor naming variation
+CLF00205,CLF-001,TXN0009587,vendor_name,Northstar Solutions,Northstar Solutions INC,Vendor naming variation
+CLF00206,CLF-001,TXN0012448,vendor_name,Apex Labs,Apex Labs LTD,Vendor naming variation
+CLF00207,CLF-001,TXN0000951,vendor_name,Apex Systems,APEX SYSTEMS,Vendor naming variation
+CLF00208,CLF-001,TXN0002711,vendor_name,Nova Systems,Nova Systems INC,Vendor naming variation
+CLF00209,CLF-001,TXN0000513,vendor_name,Atlas Solutions,Atlas Solutions INC,Vendor naming variation
+CLF00210,CLF-001,TXN0010747,vendor_name,Summit Group,SUMMIT GROUP,Vendor naming variation
+CLF00211,CLF-001,TXN0000414,vendor_name,Atlas Labs,Atlas Labs INC,Vendor naming variation
+CLF00212,CLF-001,TXN0016843,vendor_name,Quantum Group,Quantum Group,Vendor naming variation
+CLF00213,CLF-001,TXN0006632,vendor_name,Nimbus Cloud,Nimbus Cloud LTD,Vendor naming variation
+CLF00214,CLF-001,TXN0017135,vendor_name,Evergreen Solutions,Evergreen Solutions LTD,Vendor naming variation
+CLF00215,CLF-001,TXN0010626,vendor_name,Vertex Group,Vertex Group,Vendor naming variation
+CLF00216,CLF-001,TXN0001893,vendor_name,Northstar Cloud,Northstar Cloud INC,Vendor naming variation
+CLF00217,CLF-001,TXN0002755,vendor_name,Atlas Technologies,Atlas Tech,Vendor naming variation
+CLF00218,CLF-001,TXN0000421,vendor_name,Evergreen Consulting,Evergreen Consulting,Vendor naming variation
+CLF00219,CLF-001,TXN0001774,vendor_name,Evergreen Technologies,EVERGREEN TECHNOLOGIES,Vendor naming variation
+CLF00220,CLF-001,TXN0012339,vendor_name,Apex Solutions,Apex Solutions INC,Vendor naming variation
+CLF00221,CLF-001,TXN0004548,vendor_name,BlueSky Services,BLUESKY SERVICES,Vendor naming variation
+CLF00222,CLF-001,TXN0005737,vendor_name,Cobalt Cloud,Cobalt Cloud,Vendor naming variation
+CLF00223,CLF-001,TXN0017011,vendor_name,BlueSky Solutions,BlueSky Solutions,Vendor naming variation
+CLF00224,CLF-001,TXN0002355,vendor_name,Cobalt Solutions,Cobalt Solns,Vendor naming variation
+CLF00225,CLF-001,TXN0006286,vendor_name,Nimbus Labs,Nimbus Labs LTD,Vendor naming variation
+CLF00226,CLF-001,TXN0015461,vendor_name,Evergreen Solutions,Evergreen Solns,Vendor naming variation
+CLF00227,CLF-001,TXN0016480,vendor_name,Nimbus Cloud,Nimbus Cloud,Vendor naming variation
+CLF00228,CLF-001,TXN0005788,vendor_name,Nova Technologies,Nova Technologies LTD,Vendor naming variation
+CLF00229,CLF-001,TXN0004557,vendor_name,Nova Technologies,Nova Technologies LTD,Vendor naming variation
+CLF00230,CLF-001,TXN0017467,vendor_name,BlueSky Solutions,BlueSky Solutions INC,Vendor naming variation
+CLF00231,CLF-001,TXN0003949,vendor_name,Summit Labs,Summit Labs,Vendor naming variation
+CLF00232,CLF-001,TXN0013337,vendor_name,Quantum Services,QUANTUM SERVICES,Vendor naming variation
+CLF00233,CLF-001,TXN0012670,vendor_name,Cobalt Services,Cobalt Services LTD,Vendor naming variation
+CLF00234,CLF-001,TXN0007563,vendor_name,Summit Group,Summit Group,Vendor naming variation
+CLF00235,CLF-001,TXN0000582,vendor_name,Apex Group,Apex Group,Vendor naming variation
+CLF00236,CLF-001,TXN0014696,vendor_name,Nimbus Labs,Nimbus Labs,Vendor naming variation
+CLF00237,CLF-001,TXN0007560,vendor_name,Atlas Labs,ATLAS LABS,Vendor naming variation
+CLF00238,CLF-001,TXN0012066,vendor_name,Cobalt Cloud,Cobalt Cloud INC,Vendor naming variation
+CLF00239,CLF-001,TXN0009840,vendor_name,Evergreen Consulting,Evergreen Consulting INC,Vendor naming variation
+CLF00240,CLF-001,TXN0001227,vendor_name,Evergreen Consulting,Evergreen Consulting INC,Vendor naming variation
+CLF00241,CLF-001,TXN0000046,vendor_name,Apex Solutions,APEX SOLUTIONS,Vendor naming variation
+CLF00242,CLF-001,TXN0013464,vendor_name,Vertex Group,Vertex Group,Vendor naming variation
+CLF00243,CLF-001,TXN0015230,vendor_name,Summit Group,Summit Group LTD,Vendor naming variation
+CLF00244,CLF-001,TXN0005701,vendor_name,BlueSky Group,BlueSky Group INC,Vendor naming variation
+CLF00245,CLF-001,TXN0003677,vendor_name,Quantum Services,Quantum Services,Vendor naming variation
+CLF00246,CLF-001,TXN0017670,vendor_name,Pioneer Systems,Pioneer Systems INC,Vendor naming variation
+CLF00247,CLF-001,TXN0008900,vendor_name,BlueSky Solutions,BLUESKY SOLUTIONS,Vendor naming variation
+CLF00248,CLF-001,TXN0003164,vendor_name,Atlas Solutions,Atlas Solns,Vendor naming variation
+CLF00249,CLF-001,TXN0005657,vendor_name,Quantum Group,Quantum Group LTD,Vendor naming variation
+CLF00250,CLF-001,TXN0007531,vendor_name,Northstar Technologies,NORTHSTAR TECHNOLOGIES,Vendor naming variation
+CLF00251,CLF-001,TXN0003100,vendor_name,Vertex Consulting,Vertex Consulting INC,Vendor naming variation
+CLF00252,CLF-001,TXN0001342,vendor_name,Vertex Consulting,Vertex Consulting LTD,Vendor naming variation
+CLF00253,CLF-001,TXN0007500,vendor_name,BlueSky Group,BLUESKY GROUP,Vendor naming variation
+CLF00254,CLF-001,TXN0003403,vendor_name,Pioneer Solutions,PIONEER SOLUTIONS,Vendor naming variation
+CLF00255,CLF-001,TXN0014370,vendor_name,Nimbus Consulting,NIMBUS CONSULTING,Vendor naming variation
+CLF00256,CLF-001,TXN0012679,vendor_name,Atlas Systems,Atlas Systems,Vendor naming variation
+CLF00257,CLF-001,TXN0011247,vendor_name,Evergreen Technologies,Evergreen Technologies INC,Vendor naming variation
+CLF00258,CLF-001,TXN0010751,vendor_name,Nimbus Labs,Nimbus Labs,Vendor naming variation
+CLF00259,CLF-001,TXN0017684,vendor_name,Quantum Group,Quantum Group INC,Vendor naming variation
+CLF00260,CLF-001,TXN0012315,vendor_name,Northstar Consulting,NORTHSTAR CONSULTING,Vendor naming variation
+CLF00261,CLF-001,TXN0015880,vendor_name,Quantum Consulting,Quantum Consulting LTD,Vendor naming variation
+CLF00262,CLF-001,TXN0009387,vendor_name,Nimbus Group,NIMBUS GROUP,Vendor naming variation
+CLF00263,CLF-001,TXN0014541,vendor_name,Cobalt Technologies,Cobalt Tech,Vendor naming variation
+CLF00264,CLF-001,TXN0001766,vendor_name,Apex Group,Apex Group,Vendor naming variation
+CLF00265,CLF-001,TXN0015022,vendor_name,Vertex Systems,Vertex Systems,Vendor naming variation
+CLF00266,CLF-001,TXN0005458,vendor_name,Evergreen Systems,Evergreen Systems,Vendor naming variation
+CLF00267,CLF-001,TXN0003686,vendor_name,Vertex Systems,Vertex Systems,Vendor naming variation
+CLF00268,CLF-001,TXN0015933,vendor_name,Apex Labs,Apex Labs LTD,Vendor naming variation
+CLF00269,CLF-001,TXN0012954,vendor_name,Nimbus Labs,Nimbus Labs LTD,Vendor naming variation
+CLF00270,CLF-001,TXN0012559,vendor_name,Nova Group,NOVA GROUP,Vendor naming variation
+CLF00271,CLF-001,TXN0000437,vendor_name,BlueSky Technologies,BLUESKY TECHNOLOGIES,Vendor naming variation
+CLF00272,CLF-001,TXN0006776,vendor_name,Vertex Solutions,Vertex Solns,Vendor naming variation
+CLF00273,CLF-001,TXN0009780,vendor_name,Pioneer Cloud,Pioneer Cloud INC,Vendor naming variation
+CLF00274,CLF-001,TXN0004062,vendor_name,Vertex Group,Vertex Group LTD,Vendor naming variation
+CLF00275,CLF-001,TXN0001338,vendor_name,Vertex Consulting,Vertex Consulting,Vendor naming variation
+CLF00276,CLF-001,TXN0005779,vendor_name,Cobalt Technologies,COBALT TECHNOLOGIES,Vendor naming variation
+CLF00277,CLF-001,TXN0001454,vendor_name,Northstar Solutions,NORTHSTAR SOLUTIONS,Vendor naming variation
+CLF00278,CLF-001,TXN0010974,vendor_name,Atlas Systems,Atlas Systems INC,Vendor naming variation
+CLF00279,CLF-001,TXN0004512,vendor_name,Evergreen Systems,Evergreen Systems,Vendor naming variation
+CLF00280,CLF-001,TXN0007924,vendor_name,Quantum Technologies,Quantum Technologies INC,Vendor naming variation
+CLF00281,CLF-001,TXN0000234,vendor_name,Northstar Services,NORTHSTAR SERVICES,Vendor naming variation
+CLF00282,CLF-001,TXN0006472,vendor_name,Nova Systems,Nova Systems LTD,Vendor naming variation
+CLF00283,CLF-001,TXN0015557,vendor_name,Atlas Technologies,ATLAS TECHNOLOGIES,Vendor naming variation
+CLF00284,CLF-001,TXN0010957,vendor_name,Cobalt Cloud,Cobalt Cloud INC,Vendor naming variation
+CLF00285,CLF-001,TXN0003641,vendor_name,Northstar Group,NORTHSTAR GROUP,Vendor naming variation
+CLF00286,CLF-001,TXN0010446,vendor_name,Quantum Systems,Quantum Systems,Vendor naming variation
+CLF00287,CLF-001,TXN0005353,vendor_name,Nova Technologies,NOVA TECHNOLOGIES,Vendor naming variation
+CLF00288,CLF-001,TXN0014281,vendor_name,Summit Systems,SUMMIT SYSTEMS,Vendor naming variation
+CLF00289,CLF-001,TXN0003481,vendor_name,Evergreen Consulting,Evergreen Consulting,Vendor naming variation
+CLF00290,CLF-001,TXN0000554,vendor_name,Northstar Solutions,Northstar Solutions LTD,Vendor naming variation
+CLF00291,CLF-001,TXN0016184,vendor_name,Cobalt Solutions,Cobalt Solns,Vendor naming variation
+CLF00292,CLF-001,TXN0009688,vendor_name,Quantum Services,Quantum Services INC,Vendor naming variation
+CLF00293,CLF-001,TXN0003670,vendor_name,Northstar Labs,NORTHSTAR LABS,Vendor naming variation
+CLF00294,CLF-001,TXN0017492,vendor_name,BlueSky Cloud,BlueSky Cloud LTD,Vendor naming variation
+CLF00295,CLF-001,TXN0016167,vendor_name,Quantum Cloud,Quantum Cloud,Vendor naming variation
+CLF00296,CLF-001,TXN0003375,vendor_name,Cobalt Cloud,COBALT CLOUD,Vendor naming variation
+CLF00297,CLF-001,TXN0006637,vendor_name,BlueSky Group,BlueSky Group,Vendor naming variation
+CLF00298,CLF-001,TXN0008070,vendor_name,Nimbus Consulting,Nimbus Consulting,Vendor naming variation
+CLF00299,CLF-001,TXN0001721,vendor_name,Apex Consulting,Apex Consulting,Vendor naming variation
+CLF00300,CLF-001,TXN0003904,vendor_name,Quantum Group,QUANTUM GROUP,Vendor naming variation
+CLF00301,CLF-001,TXN0014654,vendor_name,Summit Group,SUMMIT GROUP,Vendor naming variation
+CLF00302,CLF-001,TXN0016830,vendor_name,Atlas Labs,Atlas Labs INC,Vendor naming variation
+CLF00303,CLF-001,TXN0007262,vendor_name,Atlas Labs,ATLAS LABS,Vendor naming variation
+CLF00304,CLF-001,TXN0014343,vendor_name,Cobalt Solutions,COBALT SOLUTIONS,Vendor naming variation
+CLF00305,CLF-001,TXN0005173,vendor_name,Nimbus Labs,Nimbus Labs,Vendor naming variation
+CLF00306,CLF-001,TXN0008623,vendor_name,Summit Services,SUMMIT SERVICES,Vendor naming variation
+CLF00307,CLF-001,TXN0007546,vendor_name,Northstar Labs,NORTHSTAR LABS,Vendor naming variation
+CLF00308,CLF-001,TXN0000704,vendor_name,Evergreen Labs,EVERGREEN LABS,Vendor naming variation
+CLF00309,CLF-001,TXN0016503,vendor_name,BlueSky Labs,BlueSky Labs,Vendor naming variation
+CLF00310,CLF-001,TXN0007466,vendor_name,Summit Consulting,Summit Consulting,Vendor naming variation
+CLF00311,CLF-001,TXN0013772,vendor_name,Apex Cloud,Apex Cloud LTD,Vendor naming variation
+CLF00312,CLF-001,TXN0002325,vendor_name,Atlas Solutions,Atlas Solutions,Vendor naming variation
+CLF00313,CLF-001,TXN0006941,vendor_name,Evergreen Consulting,Evergreen Consulting,Vendor naming variation
+CLF00314,CLF-001,TXN0002342,vendor_name,Cobalt Services,Cobalt Services,Vendor naming variation
+CLF00315,CLF-001,TXN0004578,vendor_name,Summit Solutions,Summit Solns,Vendor naming variation
+CLF00316,CLF-001,TXN0010457,vendor_name,Evergreen Technologies,Evergreen Technologies INC,Vendor naming variation
+CLF00317,CLF-001,TXN0016386,vendor_name,Quantum Technologies,Quantum Technologies INC,Vendor naming variation
+CLF00318,CLF-001,TXN0004757,vendor_name,BlueSky Technologies,BlueSky Technologies INC,Vendor naming variation
+CLF00319,CLF-001,TXN0008119,vendor_name,Vertex Group,Vertex Group LTD,Vendor naming variation
+CLF00320,CLF-001,TXN0005172,vendor_name,Quantum Consulting,Quantum Consulting INC,Vendor naming variation
+CLF00321,CLF-001,TXN0016944,vendor_name,Apex Solutions,APEX SOLUTIONS,Vendor naming variation
+CLF00322,CLF-001,TXN0002962,vendor_name,Northstar Systems,Northstar Systems LTD,Vendor naming variation
+CLF00323,CLF-001,TXN0017947,vendor_name,Pioneer Solutions,PIONEER SOLUTIONS,Vendor naming variation
+CLF00324,CLF-001,TXN0013230,vendor_name,Nova Technologies,Nova Technologies LTD,Vendor naming variation
+CLF00325,CLF-001,TXN0010745,vendor_name,Apex Cloud,Apex Cloud,Vendor naming variation
+CLF00326,CLF-001,TXN0016482,vendor_name,Northstar Systems,Northstar Systems,Vendor naming variation
+CLF00327,CLF-001,TXN0005028,vendor_name,BlueSky Solutions,BLUESKY SOLUTIONS,Vendor naming variation
+CLF00328,CLF-001,TXN0012145,vendor_name,Apex Solutions,Apex Solns,Vendor naming variation
+CLF00329,CLF-001,TXN0001788,vendor_name,Apex Services,Apex Services,Vendor naming variation
+CLF00330,CLF-001,TXN0015732,vendor_name,Nimbus Consulting,NIMBUS CONSULTING,Vendor naming variation
+CLF00331,CLF-001,TXN0015657,vendor_name,Nimbus Cloud,Nimbus Cloud LTD,Vendor naming variation
+CLF00332,CLF-001,TXN0008388,vendor_name,Apex Labs,Apex Labs,Vendor naming variation
+CLF00333,CLF-001,TXN0000349,vendor_name,Vertex Consulting,Vertex Consulting,Vendor naming variation
+CLF00334,CLF-001,TXN0006345,vendor_name,Atlas Technologies,Atlas Technologies INC,Vendor naming variation
+CLF00335,CLF-001,TXN0012529,vendor_name,Vertex Solutions,Vertex Solutions,Vendor naming variation
+CLF00336,CLF-001,TXN0004362,vendor_name,Vertex Labs,Vertex Labs,Vendor naming variation
+CLF00337,CLF-001,TXN0009051,vendor_name,Northstar Services,NORTHSTAR SERVICES,Vendor naming variation
+CLF00338,CLF-001,TXN0003046,vendor_name,BlueSky Solutions,BLUESKY SOLUTIONS,Vendor naming variation
+CLF00339,CLF-001,TXN0002514,vendor_name,Vertex Systems,VERTEX SYSTEMS,Vendor naming variation
+CLF00340,CLF-001,TXN0008395,vendor_name,Summit Systems,Summit Systems INC,Vendor naming variation
+CLF00341,CLF-001,TXN0005893,vendor_name,Northstar Systems,Northstar Systems LTD,Vendor naming variation
+CLF00342,CLF-001,TXN0005529,vendor_name,Apex Cloud,Apex Cloud INC,Vendor naming variation
+CLF00343,CLF-001,TXN0017654,vendor_name,Apex Solutions,Apex Solutions LTD,Vendor naming variation
+CLF00344,CLF-001,TXN0009650,vendor_name,Pioneer Cloud,Pioneer Cloud LTD,Vendor naming variation
+CLF00345,CLF-001,TXN0004370,vendor_name,Apex Solutions,Apex Solutions INC,Vendor naming variation
+CLF00346,CLF-001,TXN0004442,vendor_name,Northstar Solutions,Northstar Solns,Vendor naming variation
+CLF00347,CLF-001,TXN0016786,vendor_name,Nova Systems,NOVA SYSTEMS,Vendor naming variation
+CLF00348,CLF-001,TXN0015091,vendor_name,Atlas Systems,Atlas Systems INC,Vendor naming variation
+CLF00349,CLF-001,TXN0004933,vendor_name,Nova Technologies,NOVA TECHNOLOGIES,Vendor naming variation
+CLF00350,CLF-001,TXN0015252,vendor_name,Nova Technologies,NOVA TECHNOLOGIES,Vendor naming variation
+CLF00351,CLF-001,TXN0004806,vendor_name,Quantum Solutions,Quantum Solutions,Vendor naming variation
+CLF00352,CLF-001,TXN0017647,vendor_name,Northstar Consulting,Northstar Consulting,Vendor naming variation
+CLF00353,CLF-001,TXN0012709,vendor_name,Evergreen Systems,Evergreen Systems LTD,Vendor naming variation
+CLF00354,CLF-001,TXN0009534,vendor_name,Northstar Systems,Northstar Systems LTD,Vendor naming variation
+CLF00355,CLF-001,TXN0003089,vendor_name,Atlas Cloud,Atlas Cloud INC,Vendor naming variation
+CLF00356,CLF-001,TXN0017549,vendor_name,Cobalt Solutions,COBALT SOLUTIONS,Vendor naming variation
+CLF00357,CLF-001,TXN0007674,vendor_name,Cobalt Systems,Cobalt Systems INC,Vendor naming variation
+CLF00358,CLF-001,TXN0012965,vendor_name,Summit Group,Summit Group,Vendor naming variation
+CLF00359,CLF-001,TXN0007731,vendor_name,Apex Technologies,APEX TECHNOLOGIES,Vendor naming variation
+CLF00360,CLF-001,TXN0014627,vendor_name,Northstar Systems,Northstar Systems LTD,Vendor naming variation
+CLF00361,CLF-001,TXN0005453,vendor_name,Apex Labs,Apex Labs INC,Vendor naming variation
+CLF00362,CLF-001,TXN0003548,vendor_name,Atlas Services,Atlas Services,Vendor naming variation
+CLF00363,CLF-001,TXN0007684,vendor_name,Northstar Technologies,Northstar Technologies,Vendor naming variation
+CLF00364,CLF-001,TXN0016579,vendor_name,Vertex Technologies,Vertex Tech,Vendor naming variation
+CLF00365,CLF-001,TXN0015364,vendor_name,BlueSky Solutions,BlueSky Solutions INC,Vendor naming variation
+CLF00366,CLF-001,TXN0014619,vendor_name,Evergreen Labs,Evergreen Labs LTD,Vendor naming variation
+CLF00367,CLF-001,TXN0010366,vendor_name,BlueSky Systems,BLUESKY SYSTEMS,Vendor naming variation
+CLF00368,CLF-001,TXN0014625,vendor_name,BlueSky Solutions,BlueSky Solutions,Vendor naming variation
+CLF00369,CLF-001,TXN0002882,vendor_name,Vertex Group,Vertex Group LTD,Vendor naming variation
+CLF00370,CLF-001,TXN0007680,vendor_name,Quantum Consulting,QUANTUM CONSULTING,Vendor naming variation
+CLF00371,CLF-001,TXN0008686,vendor_name,Quantum Group,Quantum Group INC,Vendor naming variation
+CLF00372,CLF-001,TXN0005624,vendor_name,Summit Group,Summit Group,Vendor naming variation
+CLF00373,CLF-001,TXN0006141,vendor_name,Apex Cloud,Apex Cloud LTD,Vendor naming variation
+CLF00374,CLF-001,TXN0006401,vendor_name,Nimbus Labs,Nimbus Labs LTD,Vendor naming variation
+CLF00375,CLF-001,TXN0012947,vendor_name,Northstar Technologies,Northstar Technologies INC,Vendor naming variation
+CLF00376,CLF-001,TXN0003503,vendor_name,Quantum Group,Quantum Group,Vendor naming variation
+CLF00377,CLF-001,TXN0011128,vendor_name,Summit Services,Summit Services,Vendor naming variation
+CLF00378,CLF-001,TXN0014744,vendor_name,Evergreen Consulting,EVERGREEN CONSULTING,Vendor naming variation
+CLF00379,CLF-001,TXN0004001,vendor_name,Northstar Services,NORTHSTAR SERVICES,Vendor naming variation
+CLF00380,CLF-001,TXN0012744,vendor_name,Summit Labs,Summit Labs,Vendor naming variation
+CLF00381,CLF-001,TXN0011074,vendor_name,Atlas Labs,Atlas Labs INC,Vendor naming variation
+CLF00382,CLF-001,TXN0005738,vendor_name,BlueSky Group,BlueSky Group LTD,Vendor naming variation
+CLF00383,CLF-001,TXN0007769,vendor_name,Quantum Systems,QUANTUM SYSTEMS,Vendor naming variation
+CLF00384,CLF-001,TXN0001193,vendor_name,Pioneer Labs,PIONEER LABS,Vendor naming variation
+CLF00385,CLF-001,TXN0001059,vendor_name,Northstar Consulting,Northstar Consulting INC,Vendor naming variation
+CLF00386,CLF-001,TXN0008451,vendor_name,Atlas Systems,Atlas Systems,Vendor naming variation
+CLF00387,CLF-001,TXN0006121,vendor_name,Quantum Consulting,Quantum Consulting LTD,Vendor naming variation
+CLF00388,CLF-001,TXN0006417,vendor_name,Apex Solutions,Apex Solutions INC,Vendor naming variation
+CLF00389,CLF-001,TXN0002230,vendor_name,Nimbus Labs,Nimbus Labs LTD,Vendor naming variation
+CLF00390,CLF-001,TXN0009193,vendor_name,Summit Cloud,Summit Cloud,Vendor naming variation
+CLF00391,CLF-001,TXN0014092,vendor_name,Quantum Group,Quantum Group,Vendor naming variation
+CLF00392,CLF-001,TXN0003588,vendor_name,Cobalt Cloud,Cobalt Cloud INC,Vendor naming variation
+CLF00393,CLF-001,TXN0007475,vendor_name,Quantum Group,Quantum Group,Vendor naming variation
+CLF00394,CLF-001,TXN0012826,vendor_name,Vertex Consulting,Vertex Consulting INC,Vendor naming variation
+CLF00395,CLF-001,TXN0001044,vendor_name,Summit Consulting,Summit Consulting,Vendor naming variation
+CLF00396,CLF-001,TXN0015607,vendor_name,Vertex Systems,Vertex Systems LTD,Vendor naming variation
+CLF00397,CLF-001,TXN0013781,vendor_name,Quantum Consulting,Quantum Consulting LTD,Vendor naming variation
+CLF00398,CLF-001,TXN0007573,vendor_name,Summit Cloud,Summit Cloud LTD,Vendor naming variation
+CLF00399,CLF-001,TXN0007259,vendor_name,Pioneer Cloud,Pioneer Cloud,Vendor naming variation
+CLF00400,CLF-001,TXN0000526,vendor_name,Atlas Solutions,Atlas Solutions LTD,Vendor naming variation
+CLF00401,CLF-001,TXN0014429,vendor_name,Cobalt Solutions,Cobalt Solutions INC,Vendor naming variation
+CLF00402,CLF-001,TXN0015085,vendor_name,Nimbus Group,Nimbus Group,Vendor naming variation
+CLF00403,CLF-001,TXN0013459,vendor_name,Vertex Labs,Vertex Labs,Vendor naming variation
+CLF00404,CLF-001,TXN0013770,vendor_name,Vertex Consulting,Vertex Consulting,Vendor naming variation
+CLF00405,CLF-001,TXN0001575,vendor_name,Nimbus Labs,Nimbus Labs INC,Vendor naming variation
+CLF00406,CLF-001,TXN0002456,vendor_name,Nimbus Labs,NIMBUS LABS,Vendor naming variation
+CLF00407,CLF-001,TXN0017493,vendor_name,Apex Cloud,APEX CLOUD,Vendor naming variation
+CLF00408,CLF-001,TXN0012308,vendor_name,Pioneer Cloud,Pioneer Cloud,Vendor naming variation
+CLF00409,CLF-001,TXN0000223,vendor_name,Nova Technologies,Nova Technologies LTD,Vendor naming variation
+CLF00410,CLF-001,TXN0009220,vendor_name,Nova Systems,Nova Systems,Vendor naming variation
+CLF00411,CLF-001,TXN0006816,vendor_name,Northstar Solutions,Northstar Solutions LTD,Vendor naming variation
+CLF00412,CLF-001,TXN0001543,vendor_name,Summit Group,SUMMIT GROUP,Vendor naming variation
+CLF00413,CLF-001,TXN0010406,vendor_name,Evergreen Consulting,Evergreen Consulting INC,Vendor naming variation
+CLF00414,CLF-001,TXN0017982,vendor_name,Apex Labs,Apex Labs,Vendor naming variation
+CLF00415,CLF-001,TXN0015089,vendor_name,Apex Labs,APEX LABS,Vendor naming variation
+CLF00416,CLF-001,TXN0006188,vendor_name,Evergreen Services,EVERGREEN SERVICES,Vendor naming variation
+CLF00417,CLF-001,TXN0000696,vendor_name,Evergreen Group,Evergreen Group LTD,Vendor naming variation
+CLF00418,CLF-001,TXN0009000,vendor_name,Apex Systems,Apex Systems,Vendor naming variation
+CLF00419,CLF-001,TXN0001377,vendor_name,Evergreen Cloud,Evergreen Cloud,Vendor naming variation
+CLF00420,CLF-001,TXN0013289,vendor_name,Quantum Services,Quantum Services INC,Vendor naming variation
+CLF00421,CLF-001,TXN0012707,vendor_name,Cobalt Solutions,Cobalt Solutions LTD,Vendor naming variation
+CLF00422,CLF-001,TXN0013627,vendor_name,Summit Labs,Summit Labs,Vendor naming variation
+CLF00423,CLF-001,TXN0002648,vendor_name,Quantum Consulting,QUANTUM CONSULTING,Vendor naming variation
+CLF00424,CLF-001,TXN0016145,vendor_name,Summit Labs,Summit Labs LTD,Vendor naming variation
+CLF00425,CLF-001,TXN0009820,vendor_name,Nova Systems,Nova Systems LTD,Vendor naming variation
+CLF00426,CLF-001,TXN0000434,vendor_name,Nimbus Cloud,Nimbus Cloud,Vendor naming variation
+CLF00427,CLF-001,TXN0014868,vendor_name,Nova Technologies,Nova Technologies INC,Vendor naming variation
+CLF00428,CLF-001,TXN0005316,vendor_name,Apex Cloud,APEX CLOUD,Vendor naming variation
+CLF00429,CLF-001,TXN0016967,vendor_name,Apex Consulting,Apex Consulting INC,Vendor naming variation
+CLF00430,CLF-001,TXN0011490,vendor_name,Quantum Technologies,QUANTUM TECHNOLOGIES,Vendor naming variation
+CLF00431,CLF-001,TXN0004353,vendor_name,Quantum Solutions,QUANTUM SOLUTIONS,Vendor naming variation
+CLF00432,CLF-001,TXN0014449,vendor_name,Northstar Consulting,Northstar Consulting,Vendor naming variation
+CLF00433,CLF-001,TXN0005625,vendor_name,Quantum Solutions,Quantum Solutions LTD,Vendor naming variation
+CLF00434,CLF-001,TXN0007637,vendor_name,Nova Group,Nova Group INC,Vendor naming variation
+CLF00435,CLF-001,TXN0003577,vendor_name,Cobalt Solutions,Cobalt Solutions LTD,Vendor naming variation
+CLF00436,CLF-001,TXN0010637,vendor_name,Quantum Services,QUANTUM SERVICES,Vendor naming variation
+CLF00437,CLF-001,TXN0007009,vendor_name,Atlas Services,Atlas Services INC,Vendor naming variation
+CLF00438,CLF-001,TXN0015679,vendor_name,Vertex Group,Vertex Group INC,Vendor naming variation
+CLF00439,CLF-001,TXN0001631,vendor_name,Quantum Group,QUANTUM GROUP,Vendor naming variation
+CLF00440,CLF-001,TXN0015701,vendor_name,Apex Solutions,APEX SOLUTIONS,Vendor naming variation
+CLF00441,CLF-001,TXN0009055,vendor_name,Summit Solutions,Summit Solns,Vendor naming variation
+CLF00442,CLF-001,TXN0001695,vendor_name,Northstar Labs,Northstar Labs INC,Vendor naming variation
+CLF00443,CLF-001,TXN0016849,vendor_name,Pioneer Systems,Pioneer Systems,Vendor naming variation
+CLF00444,CLF-001,TXN0013506,vendor_name,Northstar Solutions,Northstar Solutions,Vendor naming variation
+CLF00445,CLF-001,TXN0006749,vendor_name,Evergreen Group,EVERGREEN GROUP,Vendor naming variation
+CLF00446,CLF-001,TXN0005900,vendor_name,BlueSky Group,BlueSky Group LTD,Vendor naming variation
+CLF00447,CLF-001,TXN0006553,vendor_name,Apex Group,Apex Group,Vendor naming variation
+CLF00448,CLF-001,TXN0000059,vendor_name,Nimbus Cloud,Nimbus Cloud LTD,Vendor naming variation
+CLF00449,CLF-001,TXN0003715,vendor_name,Atlas Labs,Atlas Labs LTD,Vendor naming variation
+CLF00450,CLF-001,TXN0013325,vendor_name,Evergreen Services,Evergreen Services LTD,Vendor naming variation
+CLF00451,CLF-001,TXN0010695,vendor_name,Northstar Solutions,Northstar Solutions INC,Vendor naming variation
+CLF00452,CLF-001,TXN0014103,vendor_name,Apex Labs,Apex Labs LTD,Vendor naming variation
+CLF00453,CLF-001,TXN0002739,vendor_name,Atlas Cloud,Atlas Cloud LTD,Vendor naming variation
+CLF00454,CLF-001,TXN0001583,vendor_name,BlueSky Technologies,BlueSky Technologies LTD,Vendor naming variation
+CLF00455,CLF-001,TXN0017610,vendor_name,Pioneer Cloud,PIONEER CLOUD,Vendor naming variation
+CLF00456,CLF-001,TXN0007257,vendor_name,Nimbus Group,Nimbus Group,Vendor naming variation
+CLF00457,CLF-001,TXN0007648,vendor_name,Vertex Technologies,Vertex Tech,Vendor naming variation
+CLF00458,CLF-001,TXN0016453,vendor_name,Northstar Technologies,Northstar Technologies,Vendor naming variation
+CLF00459,CLF-001,TXN0012219,vendor_name,Summit Solutions,Summit Solutions,Vendor naming variation
+CLF00460,CLF-001,TXN0004857,vendor_name,Quantum Technologies,QUANTUM TECHNOLOGIES,Vendor naming variation
+CLF00461,CLF-001,TXN0002243,vendor_name,Apex Technologies,Apex Technologies INC,Vendor naming variation
+CLF00462,CLF-001,TXN0016664,vendor_name,Summit Labs,SUMMIT LABS,Vendor naming variation
+CLF00463,CLF-001,TXN0006755,vendor_name,Pioneer Solutions,Pioneer Solutions LTD,Vendor naming variation
+CLF00464,CLF-001,TXN0012205,vendor_name,Evergreen Consulting,EVERGREEN CONSULTING,Vendor naming variation
+CLF00465,CLF-001,TXN0008304,vendor_name,Summit Labs,Summit Labs,Vendor naming variation
+CLF00466,CLF-001,TXN0016963,vendor_name,Evergreen Services,Evergreen Services INC,Vendor naming variation
+CLF00467,CLF-001,TXN0006363,vendor_name,Vertex Technologies,Vertex Technologies LTD,Vendor naming variation
+CLF00468,CLF-001,TXN0016570,vendor_name,Nimbus Consulting,Nimbus Consulting INC,Vendor naming variation
+CLF00469,CLF-001,TXN0005599,vendor_name,Summit Group,Summit Group INC,Vendor naming variation
+CLF00470,CLF-001,TXN0006935,vendor_name,Pioneer Labs,Pioneer Labs INC,Vendor naming variation
+CLF00471,CLF-001,TXN0002295,vendor_name,Apex Group,Apex Group,Vendor naming variation
+CLF00472,CLF-001,TXN0000058,vendor_name,Summit Solutions,Summit Solutions,Vendor naming variation
+CLF00473,CLF-001,TXN0013257,vendor_name,Nova Systems,Nova Systems,Vendor naming variation
+CLF00474,CLF-001,TXN0010462,vendor_name,Quantum Solutions,QUANTUM SOLUTIONS,Vendor naming variation
+CLF00475,CLF-001,TXN0017058,vendor_name,BlueSky Technologies,BLUESKY TECHNOLOGIES,Vendor naming variation
+CLF00476,CLF-001,TXN0015997,vendor_name,Quantum Group,QUANTUM GROUP,Vendor naming variation
+CLF00477,CLF-001,TXN0003731,vendor_name,Cobalt Cloud,Cobalt Cloud,Vendor naming variation
+CLF00478,CLF-001,TXN0002487,vendor_name,Nova Systems,Nova Systems INC,Vendor naming variation
+CLF00479,CLF-001,TXN0010459,vendor_name,Nova Technologies,Nova Tech,Vendor naming variation
+CLF00480,CLF-001,TXN0010960,vendor_name,Summit Consulting,Summit Consulting LTD,Vendor naming variation
+CLF00481,CLF-001,TXN0011276,vendor_name,Northstar Technologies,Northstar Technologies,Vendor naming variation
+CLF00482,CLF-001,TXN0000095,vendor_name,Apex Cloud,Apex Cloud LTD,Vendor naming variation
+CLF00483,CLF-001,TXN0013656,vendor_name,Apex Solutions,Apex Solutions INC,Vendor naming variation
+CLF00484,CLF-001,TXN0013164,vendor_name,BlueSky Group,BlueSky Group INC,Vendor naming variation
+CLF00485,CLF-001,TXN0002311,vendor_name,Evergreen Solutions,EVERGREEN SOLUTIONS,Vendor naming variation
+CLF00486,CLF-001,TXN0016874,vendor_name,Cobalt Systems,COBALT SYSTEMS,Vendor naming variation
+CLF00487,CLF-001,TXN0014307,vendor_name,Northstar Systems,Northstar Systems LTD,Vendor naming variation
+CLF00488,CLF-001,TXN0011329,vendor_name,Apex Group,APEX GROUP,Vendor naming variation
+CLF00489,CLF-001,TXN0014757,vendor_name,Evergreen Consulting,Evergreen Consulting LTD,Vendor naming variation
+CLF00490,CLF-001,TXN0007657,vendor_name,Atlas Technologies,Atlas Tech,Vendor naming variation
+CLF00491,CLF-001,TXN0004507,vendor_name,Northstar Services,Northstar Services LTD,Vendor naming variation
+CLF00492,CLF-001,TXN0016203,vendor_name,Summit Labs,Summit Labs LTD,Vendor naming variation
+CLF00493,CLF-001,TXN0006578,vendor_name,Atlas Technologies,Atlas Technologies INC,Vendor naming variation
+CLF00494,CLF-001,TXN0008376,vendor_name,Vertex Group,Vertex Group INC,Vendor naming variation
+CLF00495,CLF-001,TXN0002483,vendor_name,Nova Technologies,Nova Technologies LTD,Vendor naming variation
+CLF00496,CLF-001,TXN0006677,vendor_name,Apex Cloud,APEX CLOUD,Vendor naming variation
+CLF00497,CLF-001,TXN0012614,vendor_name,Evergreen Systems,Evergreen Systems,Vendor naming variation
+CLF00498,CLF-001,TXN0016525,vendor_name,Vertex Systems,Vertex Systems INC,Vendor naming variation
+CLF00499,CLF-001,TXN0013474,vendor_name,Vertex Group,Vertex Group,Vendor naming variation
+CLF00500,CLF-001,TXN0012649,vendor_name,Quantum Solutions,Quantum Solutions,Vendor naming variation
+CLF00501,CLF-001,TXN0010276,vendor_name,Apex Solutions,Apex Solutions,Vendor naming variation
+CLF00502,CLF-001,TXN0012538,vendor_name,Atlas Solutions,ATLAS SOLUTIONS,Vendor naming variation
+CLF00503,CLF-001,TXN0013866,vendor_name,Nimbus Labs,Nimbus Labs,Vendor naming variation
+CLF00504,CLF-001,TXN0007935,vendor_name,Apex Solutions,Apex Solns,Vendor naming variation
+CLF00505,CLF-001,TXN0008073,vendor_name,Nova Technologies,Nova Technologies INC,Vendor naming variation
+CLF00506,CLF-001,TXN0006824,vendor_name,Vertex Group,Vertex Group,Vendor naming variation
+CLF00507,CLF-001,TXN0015474,vendor_name,Northstar Solutions,Northstar Solutions,Vendor naming variation
+CLF00508,CLF-001,TXN0015724,vendor_name,Atlas Technologies,Atlas Technologies LTD,Vendor naming variation
+CLF00509,CLF-001,TXN0008273,vendor_name,Evergreen Systems,Evergreen Systems INC,Vendor naming variation
+CLF00510,CLF-001,TXN0008210,vendor_name,Cobalt Services,Cobalt Services LTD,Vendor naming variation
+CLF00511,CLF-001,TXN0002659,vendor_name,Cobalt Systems,Cobalt Systems,Vendor naming variation
+CLF00512,CLF-001,TXN0001189,vendor_name,Nimbus Consulting,Nimbus Consulting LTD,Vendor naming variation
+CLF00513,CLF-001,TXN0008141,vendor_name,Atlas Cloud,ATLAS CLOUD,Vendor naming variation
+CLF00514,CLF-001,TXN0004226,vendor_name,Vertex Consulting,VERTEX CONSULTING,Vendor naming variation
+CLF00515,CLF-001,TXN0011787,vendor_name,Cobalt Systems,Cobalt Systems INC,Vendor naming variation
+CLF00516,CLF-001,TXN0009525,vendor_name,Vertex Consulting,Vertex Consulting,Vendor naming variation
+CLF00517,CLF-001,TXN0010940,vendor_name,BlueSky Consulting,BlueSky Consulting LTD,Vendor naming variation
+CLF00518,CLF-001,TXN0001794,vendor_name,Evergreen Labs,Evergreen Labs LTD,Vendor naming variation
+CLF00519,CLF-001,TXN0014996,vendor_name,Nova Group,NOVA GROUP,Vendor naming variation
+CLF00520,CLF-001,TXN0007099,vendor_name,Evergreen Cloud,Evergreen Cloud INC,Vendor naming variation
+CLF00521,CLF-001,TXN0003944,vendor_name,Nimbus Labs,Nimbus Labs LTD,Vendor naming variation
+CLF00522,CLF-001,TXN0010284,vendor_name,Apex Cloud,Apex Cloud,Vendor naming variation
+CLF00523,CLF-001,TXN0006045,vendor_name,BlueSky Solutions,BlueSky Solutions INC,Vendor naming variation
+CLF00524,CLF-001,TXN0001306,vendor_name,BlueSky Group,BlueSky Group,Vendor naming variation
+CLF00525,CLF-001,TXN0014253,vendor_name,Quantum Cloud,Quantum Cloud INC,Vendor naming variation
+CLF00526,CLF-001,TXN0009385,vendor_name,Northstar Solutions,NORTHSTAR SOLUTIONS,Vendor naming variation
+CLF00527,CLF-001,TXN0012238,vendor_name,Evergreen Cloud,EVERGREEN CLOUD,Vendor naming variation
+CLF00528,CLF-001,TXN0006721,vendor_name,Atlas Cloud,ATLAS CLOUD,Vendor naming variation
+CLF00529,CLF-001,TXN0009929,vendor_name,Nimbus Labs,Nimbus Labs INC,Vendor naming variation
+CLF00530,CLF-001,TXN0006957,vendor_name,Nova Systems,Nova Systems,Vendor naming variation
+CLF00531,CLF-001,TXN0009036,vendor_name,Quantum Technologies,Quantum Technologies,Vendor naming variation
+CLF00532,CLF-001,TXN0006728,vendor_name,Quantum Consulting,Quantum Consulting,Vendor naming variation
+CLF00533,CLF-001,TXN0006822,vendor_name,Evergreen Consulting,Evergreen Consulting,Vendor naming variation
+CLF00534,CLF-001,TXN0000270,vendor_name,BlueSky Cloud,BlueSky Cloud,Vendor naming variation
+CLF00535,CLF-001,TXN0003962,vendor_name,Vertex Group,Vertex Group INC,Vendor naming variation
+CLF00536,CLF-001,TXN0016611,vendor_name,Evergreen Systems,Evergreen Systems,Vendor naming variation
+CLF00537,CLF-001,TXN0017504,vendor_name,Cobalt Cloud,COBALT CLOUD,Vendor naming variation
+CLF00538,CLF-001,TXN0011773,vendor_name,Northstar Labs,Northstar Labs INC,Vendor naming variation
+CLF00539,CLF-001,TXN0011506,vendor_name,Cobalt Solutions,Cobalt Solns,Vendor naming variation
+CLF00540,CLF-001,TXN0002369,vendor_name,Apex Technologies,Apex Tech,Vendor naming variation
+CLF00541,CLF-001,TXN0007753,vendor_name,Cobalt Technologies,Cobalt Technologies LTD,Vendor naming variation
+CLF00542,CLF-001,TXN0006704,vendor_name,Summit Solutions,Summit Solns,Vendor naming variation
+CLF00543,CLF-001,TXN0008736,vendor_name,BlueSky Technologies,BlueSky Technologies LTD,Vendor naming variation
+CLF00544,CLF-001,TXN0008718,vendor_name,Atlas Systems,Atlas Systems,Vendor naming variation
+CLF00545,CLF-001,TXN0014269,vendor_name,BlueSky Group,BLUESKY GROUP,Vendor naming variation
+CLF00546,CLF-001,TXN0015180,vendor_name,Vertex Consulting,Vertex Consulting,Vendor naming variation
+CLF00547,CLF-001,TXN0012743,vendor_name,BlueSky Systems,BlueSky Systems INC,Vendor naming variation
+CLF00548,CLF-001,TXN0003764,vendor_name,Atlas Solutions,Atlas Solutions INC,Vendor naming variation
+CLF00549,CLF-001,TXN0007673,vendor_name,Atlas Cloud,ATLAS CLOUD,Vendor naming variation
+CLF00550,CLF-001,TXN0014847,vendor_name,Atlas Services,Atlas Services INC,Vendor naming variation
+CLF00551,CLF-001,TXN0003125,vendor_name,Apex Group,Apex Group,Vendor naming variation
+CLF00552,CLF-001,TXN0011011,vendor_name,Nimbus Solutions,Nimbus Solns,Vendor naming variation
+CLF00553,CLF-001,TXN0009280,vendor_name,Cobalt Technologies,Cobalt Tech,Vendor naming variation
+CLF00554,CLF-001,TXN0002009,vendor_name,Vertex Consulting,Vertex Consulting,Vendor naming variation
+CLF00555,CLF-001,TXN0001758,vendor_name,Apex Group,Apex Group,Vendor naming variation
+CLF00556,CLF-001,TXN0015695,vendor_name,Vertex Technologies,Vertex Tech,Vendor naming variation
+CLF00557,CLF-001,TXN0015188,vendor_name,Northstar Consulting,Northstar Consulting,Vendor naming variation
+CLF00558,CLF-001,TXN0006998,vendor_name,Apex Cloud,Apex Cloud LTD,Vendor naming variation
+CLF00559,CLF-001,TXN0008397,vendor_name,Nimbus Cloud,Nimbus Cloud INC,Vendor naming variation
+CLF00560,CLF-001,TXN0014524,vendor_name,Cobalt Systems,Cobalt Systems,Vendor naming variation
+CLF00561,CLF-001,TXN0003709,vendor_name,Cobalt Services,Cobalt Services,Vendor naming variation
+CLF00562,CLF-001,TXN0016363,vendor_name,Pioneer Cloud,Pioneer Cloud,Vendor naming variation
+CLF00563,CLF-001,TXN0003187,vendor_name,Apex Solutions,Apex Solutions LTD,Vendor naming variation
+CLF00564,CLF-001,TXN0002466,vendor_name,Atlas Technologies,Atlas Tech,Vendor naming variation
+CLF00565,CLF-001,TXN0000936,vendor_name,Summit Labs,Summit Labs,Vendor naming variation
+CLF00566,CLF-001,TXN0008552,vendor_name,Quantum Services,Quantum Services LTD,Vendor naming variation
+CLF00567,CLF-001,TXN0013405,vendor_name,Vertex Services,Vertex Services,Vendor naming variation
+CLF00568,CLF-001,TXN0012169,vendor_name,Cobalt Cloud,Cobalt Cloud,Vendor naming variation
+CLF00569,CLF-001,TXN0003805,vendor_name,Atlas Solutions,Atlas Solutions,Vendor naming variation
+CLF00570,CLF-001,TXN0008912,vendor_name,Quantum Solutions,Quantum Solutions LTD,Vendor naming variation
+CLF00571,CLF-001,TXN0004692,vendor_name,Vertex Services,Vertex Services LTD,Vendor naming variation
+CLF00572,CLF-001,TXN0011473,vendor_name,Quantum Group,Quantum Group LTD,Vendor naming variation
+CLF00573,CLF-001,TXN0017044,vendor_name,Northstar Services,NORTHSTAR SERVICES,Vendor naming variation
+CLF00574,CLF-001,TXN0003921,vendor_name,Nova Technologies,Nova Technologies,Vendor naming variation
+CLF00575,CLF-001,TXN0013377,vendor_name,Evergreen Labs,EVERGREEN LABS,Vendor naming variation
+CLF00576,CLF-001,TXN0017872,vendor_name,Nova Systems,Nova Systems LTD,Vendor naming variation
+CLF00577,CLF-001,TXN0003666,vendor_name,Pioneer Cloud,PIONEER CLOUD,Vendor naming variation
+CLF00578,CLF-001,TXN0008075,vendor_name,Quantum Consulting,Quantum Consulting,Vendor naming variation
+CLF00579,CLF-001,TXN0015192,vendor_name,BlueSky Cloud,BlueSky Cloud LTD,Vendor naming variation
+CLF00580,CLF-001,TXN0014369,vendor_name,Atlas Solutions,Atlas Solutions,Vendor naming variation
+CLF00581,CLF-001,TXN0000153,vendor_name,Atlas Cloud,Atlas Cloud INC,Vendor naming variation
+CLF00582,CLF-001,TXN0004039,vendor_name,Summit Solutions,Summit Solutions,Vendor naming variation
+CLF00583,CLF-001,TXN0015401,vendor_name,Northstar Cloud,Northstar Cloud,Vendor naming variation
+CLF00584,CLF-001,TXN0016731,vendor_name,Cobalt Services,Cobalt Services LTD,Vendor naming variation
+CLF00585,CLF-001,TXN0013486,vendor_name,Summit Labs,Summit Labs,Vendor naming variation
+CLF00586,CLF-001,TXN0004414,vendor_name,Nova Group,Nova Group,Vendor naming variation
+CLF00587,CLF-001,TXN0006712,vendor_name,Summit Group,Summit Group,Vendor naming variation
+CLF00588,CLF-001,TXN0016674,vendor_name,Quantum Group,Quantum Group INC,Vendor naming variation
+CLF00589,CLF-001,TXN0007229,vendor_name,Pioneer Cloud,PIONEER CLOUD,Vendor naming variation
+CLF00590,CLF-001,TXN0014273,vendor_name,Nova Labs,Nova Labs INC,Vendor naming variation
+CLF00591,CLF-001,TXN0013780,vendor_name,Nimbus Solutions,Nimbus Solutions LTD,Vendor naming variation
+CLF00592,CLF-001,TXN0011303,vendor_name,Nova Systems,NOVA SYSTEMS,Vendor naming variation
+CLF00593,CLF-001,TXN0006890,vendor_name,Quantum Labs,Quantum Labs,Vendor naming variation
+CLF00594,CLF-001,TXN0010884,vendor_name,Vertex Group,Vertex Group,Vendor naming variation
+CLF00595,CLF-001,TXN0012952,vendor_name,Northstar Solutions,Northstar Solutions LTD,Vendor naming variation
+CLF00596,CLF-001,TXN0016632,vendor_name,Evergreen Solutions,Evergreen Solutions LTD,Vendor naming variation
+CLF00597,CLF-001,TXN0007020,vendor_name,Cobalt Solutions,Cobalt Solutions LTD,Vendor naming variation
+CLF00598,CLF-001,TXN0009843,vendor_name,Atlas Solutions,ATLAS SOLUTIONS,Vendor naming variation
+CLF00599,CLF-001,TXN0016282,vendor_name,Quantum Technologies,Quantum Technologies,Vendor naming variation
+CLF00600,CLF-001,TXN0010818,vendor_name,Quantum Technologies,QUANTUM TECHNOLOGIES,Vendor naming variation
+CLF00601,CLF-002,TXN0017051,raw_category,Office Supplies,Travel,Category misclassification
+CLF00602,CLF-002,TXN0000145,raw_category,Software & SaaS,Other,Category misclassification
+CLF00603,CLF-002,TXN0001653,raw_category,Facilities,Software & SaaS,Category misclassification
+CLF00604,CLF-002,TXN0009459,raw_category,Hardware,Marketing,Category misclassification
+CLF00605,CLF-002,TXN0011426,raw_category,Facilities,Professional Services,Category misclassification
+CLF00606,CLF-002,TXN0008477,raw_category,Other,Facilities,Category misclassification
+CLF00607,CLF-002,TXN0017628,raw_category,Travel,Professional Services,Category misclassification
+CLF00608,CLF-002,TXN0001037,raw_category,Software & SaaS,Office Supplies,Category misclassification
+CLF00609,CLF-002,TXN0016905,raw_category,Marketing,Telecommunications,Category misclassification
+CLF00610,CLF-002,TXN0013601,raw_category,Travel,Facilities,Category misclassification
+CLF00611,CLF-002,TXN0004213,raw_category,Facilities,Marketing,Category misclassification
+CLF00612,CLF-002,TXN0001851,raw_category,Other,Professional Services,Category misclassification
+CLF00613,CLF-002,TXN0000979,raw_category,Cloud & Hosting,Marketing,Category misclassification
+CLF00614,CLF-002,TXN0015964,raw_category,Marketing,Telecommunications,Category misclassification
+CLF00615,CLF-002,TXN0012855,raw_category,Marketing,Software & SaaS,Category misclassification
+CLF00616,CLF-002,TXN0008981,raw_category,Other,Cloud & Hosting,Category misclassification
+CLF00617,CLF-002,TXN0006683,raw_category,Marketing,Facilities,Category misclassification
+CLF00618,CLF-002,TXN0005203,raw_category,Marketing,Facilities,Category misclassification
+CLF00619,CLF-002,TXN0012782,raw_category,Cloud & Hosting,Marketing,Category misclassification
+CLF00620,CLF-002,TXN0017388,raw_category,Facilities,Other,Category misclassification
+CLF00621,CLF-002,TXN0008218,raw_category,Other,Cloud & Hosting,Category misclassification
+CLF00622,CLF-002,TXN0009156,raw_category,Marketing,Travel,Category misclassification
+CLF00623,CLF-002,TXN0002636,raw_category,Marketing,Office Supplies,Category misclassification
+CLF00624,CLF-002,TXN0011479,raw_category,Telecommunications,Professional Services,Category misclassification
+CLF00625,CLF-002,TXN0002997,raw_category,Office Supplies,Software & SaaS,Category misclassification
+CLF00626,CLF-002,TXN0002391,raw_category,Marketing,Software & SaaS,Category misclassification
+CLF00627,CLF-002,TXN0009429,raw_category,Travel,Marketing,Category misclassification
+CLF00628,CLF-002,TXN0008807,raw_category,Marketing,Telecommunications,Category misclassification
+CLF00629,CLF-002,TXN0005618,raw_category,Office Supplies,Travel,Category misclassification
+CLF00630,CLF-002,TXN0000589,raw_category,Telecommunications,Other,Category misclassification
+CLF00631,CLF-002,TXN0008385,raw_category,Cloud & Hosting,Hardware,Category misclassification
+CLF00632,CLF-002,TXN0002885,raw_category,Marketing,Facilities,Category misclassification
+CLF00633,CLF-002,TXN0015055,raw_category,Travel,Hardware,Category misclassification
+CLF00634,CLF-002,TXN0017029,raw_category,Marketing,Software & SaaS,Category misclassification
+CLF00635,CLF-002,TXN0015751,raw_category,Other,Marketing,Category misclassification
+CLF00636,CLF-002,TXN0013526,raw_category,Marketing,Other,Category misclassification
+CLF00637,CLF-002,TXN0015091,raw_category,Professional Services,Travel,Category misclassification
+CLF00638,CLF-002,TXN0010153,raw_category,Other,Professional Services,Category misclassification
+CLF00639,CLF-002,TXN0009115,raw_category,Professional Services,Marketing,Category misclassification
+CLF00640,CLF-002,TXN0013429,raw_category,Marketing,Other,Category misclassification
+CLF00641,CLF-002,TXN0009235,raw_category,Facilities,Marketing,Category misclassification
+CLF00642,CLF-002,TXN0016517,raw_category,Other,Hardware,Category misclassification
+CLF00643,CLF-002,TXN0016486,raw_category,Cloud & Hosting,Marketing,Category misclassification
+CLF00644,CLF-002,TXN0006872,raw_category,Other,Office Supplies,Category misclassification
+CLF00645,CLF-002,TXN0012141,raw_category,Telecommunications,Professional Services,Category misclassification
+CLF00646,CLF-002,TXN0004784,raw_category,Other,Facilities,Category misclassification
+CLF00647,CLF-002,TXN0011023,raw_category,Software & SaaS,Hardware,Category misclassification
+CLF00648,CLF-002,TXN0013947,raw_category,Software & SaaS,Other,Category misclassification
+CLF00649,CLF-002,TXN0008269,raw_category,Office Supplies,Marketing,Category misclassification
+CLF00650,CLF-002,TXN0017620,raw_category,Software & SaaS,Facilities,Category misclassification
+CLF00651,CLF-002,TXN0013031,raw_category,Hardware,Cloud & Hosting,Category misclassification
+CLF00652,CLF-002,TXN0016743,raw_category,Travel,Cloud & Hosting,Category misclassification
+CLF00653,CLF-002,TXN0008435,raw_category,Travel,Marketing,Category misclassification
+CLF00654,CLF-002,TXN0006689,raw_category,Facilities,Professional Services,Category misclassification
+CLF00655,CLF-002,TXN0017067,raw_category,Cloud & Hosting,Professional Services,Category misclassification
+CLF00656,CLF-002,TXN0002382,raw_category,Software & SaaS,Office Supplies,Category misclassification
+CLF00657,CLF-002,TXN0000235,raw_category,Other,Professional Services,Category misclassification
+CLF00658,CLF-002,TXN0006074,raw_category,Software & SaaS,Cloud & Hosting,Category misclassification
+CLF00659,CLF-002,TXN0012107,raw_category,Software & SaaS,Travel,Category misclassification
+CLF00660,CLF-002,TXN0014043,raw_category,Software & SaaS,Other,Category misclassification
+CLF00661,CLF-002,TXN0002767,raw_category,Telecommunications,Other,Category misclassification
+CLF00662,CLF-002,TXN0009998,raw_category,Office Supplies,Cloud & Hosting,Category misclassification
+CLF00663,CLF-002,TXN0002442,raw_category,Marketing,Telecommunications,Category misclassification
+CLF00664,CLF-002,TXN0011700,raw_category,Software & SaaS,Facilities,Category misclassification
+CLF00665,CLF-002,TXN0001829,raw_category,Software & SaaS,Telecommunications,Category misclassification
+CLF00666,CLF-002,TXN0003184,raw_category,Cloud & Hosting,Travel,Category misclassification
+CLF00667,CLF-002,TXN0015178,raw_category,Facilities,Professional Services,Category misclassification
+CLF00668,CLF-002,TXN0007156,raw_category,Hardware,Cloud & Hosting,Category misclassification
+CLF00669,CLF-002,TXN0009699,raw_category,Facilities,Telecommunications,Category misclassification
+CLF00670,CLF-002,TXN0007022,raw_category,Telecommunications,Office Supplies,Category misclassification
+CLF00671,CLF-002,TXN0009715,raw_category,Other,Telecommunications,Category misclassification
+CLF00672,CLF-002,TXN0016610,raw_category,Office Supplies,Travel,Category misclassification
+CLF00673,CLF-002,TXN0012194,raw_category,Professional Services,Cloud & Hosting,Category misclassification
+CLF00674,CLF-002,TXN0005855,raw_category,Travel,Office Supplies,Category misclassification
+CLF00675,CLF-002,TXN0016000,raw_category,Other,Cloud & Hosting,Category misclassification
+CLF00676,CLF-002,TXN0004438,raw_category,Other,Software & SaaS,Category misclassification
+CLF00677,CLF-002,TXN0014779,raw_category,Facilities,Cloud & Hosting,Category misclassification
+CLF00678,CLF-002,TXN0011910,raw_category,Hardware,Other,Category misclassification
+CLF00679,CLF-002,TXN0000206,raw_category,Office Supplies,Facilities,Category misclassification
+CLF00680,CLF-002,TXN0002446,raw_category,Travel,Telecommunications,Category misclassification
+CLF00681,CLF-002,TXN0015081,raw_category,Software & SaaS,Hardware,Category misclassification
+CLF00682,CLF-002,TXN0015587,raw_category,Facilities,Hardware,Category misclassification
+CLF00683,CLF-002,TXN0010432,raw_category,Hardware,Software & SaaS,Category misclassification
+CLF00684,CLF-002,TXN0006054,raw_category,Professional Services,Other,Category misclassification
+CLF00685,CLF-002,TXN0015898,raw_category,Professional Services,Hardware,Category misclassification
+CLF00686,CLF-002,TXN0016432,raw_category,Facilities,Software & SaaS,Category misclassification
+CLF00687,CLF-002,TXN0013711,raw_category,Hardware,Software & SaaS,Category misclassification
+CLF00688,CLF-002,TXN0007061,raw_category,Software & SaaS,Cloud & Hosting,Category misclassification
+CLF00689,CLF-002,TXN0013594,raw_category,Software & SaaS,Travel,Category misclassification
+CLF00690,CLF-002,TXN0000743,raw_category,Facilities,Other,Category misclassification
+CLF00691,CLF-002,TXN0017775,raw_category,Hardware,Telecommunications,Category misclassification
+CLF00692,CLF-002,TXN0001500,raw_category,Marketing,Office Supplies,Category misclassification
+CLF00693,CLF-002,TXN0016590,raw_category,Other,Marketing,Category misclassification
+CLF00694,CLF-002,TXN0010721,raw_category,Facilities,Marketing,Category misclassification
+CLF00695,CLF-002,TXN0006811,raw_category,Cloud & Hosting,Marketing,Category misclassification
+CLF00696,CLF-002,TXN0004004,raw_category,Software & SaaS,Office Supplies,Category misclassification
+CLF00697,CLF-002,TXN0017161,raw_category,Facilities,Professional Services,Category misclassification
+CLF00698,CLF-002,TXN0009240,raw_category,Hardware,Other,Category misclassification
+CLF00699,CLF-002,TXN0006696,raw_category,Cloud & Hosting,Telecommunications,Category misclassification
+CLF00700,CLF-002,TXN0009885,raw_category,Software & SaaS,Other,Category misclassification
+CLF00701,CLF-002,TXN0017777,raw_category,Marketing,Other,Category misclassification
+CLF00702,CLF-002,TXN0012745,raw_category,Telecommunications,Travel,Category misclassification
+CLF00703,CLF-002,TXN0008874,raw_category,Other,Cloud & Hosting,Category misclassification
+CLF00704,CLF-002,TXN0014869,raw_category,Cloud & Hosting,Other,Category misclassification
+CLF00705,CLF-002,TXN0009591,raw_category,Software & SaaS,Professional Services,Category misclassification
+CLF00706,CLF-002,TXN0013999,raw_category,Travel,Office Supplies,Category misclassification
+CLF00707,CLF-002,TXN0013399,raw_category,Marketing,Facilities,Category misclassification
+CLF00708,CLF-002,TXN0002742,raw_category,Facilities,Hardware,Category misclassification
+CLF00709,CLF-002,TXN0006482,raw_category,Office Supplies,Telecommunications,Category misclassification
+CLF00710,CLF-002,TXN0015902,raw_category,Telecommunications,Office Supplies,Category misclassification
+CLF00711,CLF-002,TXN0000092,raw_category,Marketing,Hardware,Category misclassification
+CLF00712,CLF-002,TXN0009580,raw_category,Cloud & Hosting,Software & SaaS,Category misclassification
+CLF00713,CLF-002,TXN0000997,raw_category,Other,Cloud & Hosting,Category misclassification
+CLF00714,CLF-002,TXN0011017,raw_category,Software & SaaS,Hardware,Category misclassification
+CLF00715,CLF-002,TXN0009999,raw_category,Other,Facilities,Category misclassification
+CLF00716,CLF-002,TXN0016906,raw_category,Cloud & Hosting,Office Supplies,Category misclassification
+CLF00717,CLF-002,TXN0010032,raw_category,Facilities,Cloud & Hosting,Category misclassification
+CLF00718,CLF-002,TXN0011453,raw_category,Hardware,Travel,Category misclassification
+CLF00719,CLF-002,TXN0006237,raw_category,Marketing,Software & SaaS,Category misclassification
+CLF00720,CLF-002,TXN0008884,raw_category,Hardware,Cloud & Hosting,Category misclassification
+CLF00721,CLF-002,TXN0016765,raw_category,Cloud & Hosting,Professional Services,Category misclassification
+CLF00722,CLF-002,TXN0007749,raw_category,Facilities,Office Supplies,Category misclassification
+CLF00723,CLF-002,TXN0016374,raw_category,Other,Travel,Category misclassification
+CLF00724,CLF-002,TXN0014632,raw_category,Office Supplies,Hardware,Category misclassification
+CLF00725,CLF-002,TXN0006623,raw_category,Facilities,Travel,Category misclassification
+CLF00726,CLF-002,TXN0005752,raw_category,Hardware,Telecommunications,Category misclassification
+CLF00727,CLF-002,TXN0005140,raw_category,Other,Marketing,Category misclassification
+CLF00728,CLF-002,TXN0002597,raw_category,Hardware,Travel,Category misclassification
+CLF00729,CLF-002,TXN0009768,raw_category,Other,Office Supplies,Category misclassification
+CLF00730,CLF-002,TXN0007568,raw_category,Software & SaaS,Facilities,Category misclassification
+CLF00731,CLF-002,TXN0014717,raw_category,Other,Hardware,Category misclassification
+CLF00732,CLF-002,TXN0008153,raw_category,Hardware,Travel,Category misclassification
+CLF00733,CLF-002,TXN0009916,raw_category,Office Supplies,Cloud & Hosting,Category misclassification
+CLF00734,CLF-002,TXN0014597,raw_category,Software & SaaS,Hardware,Category misclassification
+CLF00735,CLF-002,TXN0001340,raw_category,Facilities,Other,Category misclassification
+CLF00736,CLF-002,TXN0003200,raw_category,Travel,Hardware,Category misclassification
+CLF00737,CLF-002,TXN0009970,raw_category,Telecommunications,Facilities,Category misclassification
+CLF00738,CLF-002,TXN0017191,raw_category,Telecommunications,Facilities,Category misclassification
+CLF00739,CLF-002,TXN0016332,raw_category,Telecommunications,Other,Category misclassification
+CLF00740,CLF-002,TXN0009338,raw_category,Professional Services,Office Supplies,Category misclassification
+CLF00741,CLF-002,TXN0008133,raw_category,Other,Marketing,Category misclassification
+CLF00742,CLF-002,TXN0010596,raw_category,Software & SaaS,Hardware,Category misclassification
+CLF00743,CLF-002,TXN0000728,raw_category,Hardware,Other,Category misclassification
+CLF00744,CLF-002,TXN0014034,raw_category,Marketing,Telecommunications,Category misclassification
+CLF00745,CLF-002,TXN0005149,raw_category,Other,Software & SaaS,Category misclassification
+CLF00746,CLF-002,TXN0008275,raw_category,Office Supplies,Software & SaaS,Category misclassification
+CLF00747,CLF-002,TXN0010883,raw_category,Software & SaaS,Office Supplies,Category misclassification
+CLF00748,CLF-002,TXN0017606,raw_category,Facilities,Professional Services,Category misclassification
+CLF00749,CLF-002,TXN0015267,raw_category,Office Supplies,Professional Services,Category misclassification
+CLF00750,CLF-002,TXN0017159,raw_category,Hardware,Marketing,Category misclassification
+CLF00751,CLF-002,TXN0003193,raw_category,Office Supplies,Software & SaaS,Category misclassification
+CLF00752,CLF-002,TXN0003537,raw_category,Professional Services,Telecommunications,Category misclassification
+CLF00753,CLF-002,TXN0015582,raw_category,Other,Software & SaaS,Category misclassification
+CLF00754,CLF-002,TXN0013416,raw_category,Other,Software & SaaS,Category misclassification
+CLF00755,CLF-002,TXN0009307,raw_category,Software & SaaS,Office Supplies,Category misclassification
+CLF00756,CLF-002,TXN0015880,raw_category,Cloud & Hosting,Office Supplies,Category misclassification
+CLF00757,CLF-002,TXN0001445,raw_category,Facilities,Telecommunications,Category misclassification
+CLF00758,CLF-002,TXN0001538,raw_category,Professional Services,Marketing,Category misclassification
+CLF00759,CLF-002,TXN0011022,raw_category,Travel,Cloud & Hosting,Category misclassification
+CLF00760,CLF-002,TXN0005343,raw_category,Cloud & Hosting,Travel,Category misclassification
+CLF00761,CLF-002,TXN0009098,raw_category,Office Supplies,Software & SaaS,Category misclassification
+CLF00762,CLF-002,TXN0011036,raw_category,Hardware,Marketing,Category misclassification
+CLF00763,CLF-002,TXN0011622,raw_category,Facilities,Telecommunications,Category misclassification
+CLF00764,CLF-002,TXN0002685,raw_category,Software & SaaS,Travel,Category misclassification
+CLF00765,CLF-002,TXN0004264,raw_category,Facilities,Cloud & Hosting,Category misclassification
+CLF00766,CLF-002,TXN0015142,raw_category,Cloud & Hosting,Marketing,Category misclassification
+CLF00767,CLF-002,TXN0001907,raw_category,Other,Professional Services,Category misclassification
+CLF00768,CLF-002,TXN0006452,raw_category,Other,Professional Services,Category misclassification
+CLF00769,CLF-002,TXN0012404,raw_category,Cloud & Hosting,Professional Services,Category misclassification
+CLF00770,CLF-002,TXN0006607,raw_category,Office Supplies,Marketing,Category misclassification
+CLF00771,CLF-002,TXN0012636,raw_category,Facilities,Professional Services,Category misclassification
+CLF00772,CLF-002,TXN0016937,raw_category,Software & SaaS,Office Supplies,Category misclassification
+CLF00773,CLF-002,TXN0016229,raw_category,Other,Hardware,Category misclassification
+CLF00774,CLF-002,TXN0016908,raw_category,Office Supplies,Cloud & Hosting,Category misclassification
+CLF00775,CLF-002,TXN0006154,raw_category,Professional Services,Marketing,Category misclassification
+CLF00776,CLF-002,TXN0008415,raw_category,Telecommunications,Hardware,Category misclassification
+CLF00777,CLF-002,TXN0015327,raw_category,Hardware,Other,Category misclassification
+CLF00778,CLF-002,TXN0003321,raw_category,Marketing,Other,Category misclassification
+CLF00779,CLF-002,TXN0015551,raw_category,Office Supplies,Hardware,Category misclassification
+CLF00780,CLF-002,TXN0004642,raw_category,Office Supplies,Marketing,Category misclassification
+CLF00781,CLF-002,TXN0009978,raw_category,Facilities,Office Supplies,Category misclassification
+CLF00782,CLF-002,TXN0011793,raw_category,Professional Services,Cloud & Hosting,Category misclassification
+CLF00783,CLF-002,TXN0013850,raw_category,Professional Services,Facilities,Category misclassification
+CLF00784,CLF-002,TXN0010858,raw_category,Hardware,Cloud & Hosting,Category misclassification
+CLF00785,CLF-002,TXN0010161,raw_category,Software & SaaS,Other,Category misclassification
+CLF00786,CLF-002,TXN0014673,raw_category,Hardware,Telecommunications,Category misclassification
+CLF00787,CLF-002,TXN0007529,raw_category,Facilities,Cloud & Hosting,Category misclassification
+CLF00788,CLF-002,TXN0013997,raw_category,Marketing,Other,Category misclassification
+CLF00789,CLF-002,TXN0015831,raw_category,Facilities,Professional Services,Category misclassification
+CLF00790,CLF-002,TXN0009546,raw_category,Marketing,Office Supplies,Category misclassification
+CLF00791,CLF-002,TXN0008059,raw_category,Professional Services,Telecommunications,Category misclassification
+CLF00792,CLF-002,TXN0005541,raw_category,Office Supplies,Telecommunications,Category misclassification
+CLF00793,CLF-002,TXN0017263,raw_category,Cloud & Hosting,Professional Services,Category misclassification
+CLF00794,CLF-002,TXN0001131,raw_category,Other,Marketing,Category misclassification
+CLF00795,CLF-002,TXN0003119,raw_category,Software & SaaS,Marketing,Category misclassification
+CLF00796,CLF-002,TXN0013177,raw_category,Software & SaaS,Telecommunications,Category misclassification
+CLF00797,CLF-002,TXN0005857,raw_category,Software & SaaS,Facilities,Category misclassification
+CLF00798,CLF-002,TXN0008370,raw_category,Professional Services,Travel,Category misclassification
+CLF00799,CLF-002,TXN0017812,raw_category,Travel,Professional Services,Category misclassification
+CLF00800,CLF-002,TXN0013828,raw_category,Software & SaaS,Hardware,Category misclassification
+CLF00801,CLF-002,TXN0007404,raw_category,Office Supplies,Professional Services,Category misclassification
+CLF00802,CLF-002,TXN0009890,raw_category,Travel,Other,Category misclassification
+CLF00803,CLF-002,TXN0005063,raw_category,Travel,Marketing,Category misclassification
+CLF00804,CLF-002,TXN0010467,raw_category,Travel,Telecommunications,Category misclassification
+CLF00805,CLF-002,TXN0001511,raw_category,Cloud & Hosting,Marketing,Category misclassification
+CLF00806,CLF-002,TXN0011620,raw_category,Facilities,Professional Services,Category misclassification
+CLF00807,CLF-002,TXN0001603,raw_category,Travel,Marketing,Category misclassification
+CLF00808,CLF-002,TXN0017935,raw_category,Office Supplies,Cloud & Hosting,Category misclassification
+CLF00809,CLF-002,TXN0007687,raw_category,Marketing,Other,Category misclassification
+CLF00810,CLF-002,TXN0001586,raw_category,Travel,Office Supplies,Category misclassification
+CLF00811,CLF-002,TXN0012578,raw_category,Facilities,Software & SaaS,Category misclassification
+CLF00812,CLF-002,TXN0017854,raw_category,Other,Marketing,Category misclassification
+CLF00813,CLF-002,TXN0010070,raw_category,Facilities,Office Supplies,Category misclassification
+CLF00814,CLF-002,TXN0005327,raw_category,Other,Cloud & Hosting,Category misclassification
+CLF00815,CLF-002,TXN0012130,raw_category,Hardware,Telecommunications,Category misclassification
+CLF00816,CLF-002,TXN0015928,raw_category,Marketing,Professional Services,Category misclassification
+CLF00817,CLF-002,TXN0008342,raw_category,Office Supplies,Cloud & Hosting,Category misclassification
+CLF00818,CLF-002,TXN0001123,raw_category,Other,Software & SaaS,Category misclassification
+CLF00819,CLF-002,TXN0008548,raw_category,Office Supplies,Marketing,Category misclassification
+CLF00820,CLF-002,TXN0000602,raw_category,Hardware,Telecommunications,Category misclassification
+CLF00821,CLF-002,TXN0013975,raw_category,Travel,Facilities,Category misclassification
+CLF00822,CLF-002,TXN0016091,raw_category,Marketing,Software & SaaS,Category misclassification
+CLF00823,CLF-002,TXN0005859,raw_category,Facilities,Software & SaaS,Category misclassification
+CLF00824,CLF-002,TXN0013316,raw_category,Hardware,Facilities,Category misclassification
+CLF00825,CLF-002,TXN0003995,raw_category,Hardware,Professional Services,Category misclassification
+CLF00826,CLF-002,TXN0003638,raw_category,Travel,Other,Category misclassification
+CLF00827,CLF-002,TXN0017783,raw_category,Travel,Hardware,Category misclassification
+CLF00828,CLF-002,TXN0001749,raw_category,Facilities,Cloud & Hosting,Category misclassification
+CLF00829,CLF-002,TXN0014651,raw_category,Cloud & Hosting,Office Supplies,Category misclassification
+CLF00830,CLF-002,TXN0008984,raw_category,Telecommunications,Office Supplies,Category misclassification
+CLF00831,CLF-002,TXN0016487,raw_category,Travel,Office Supplies,Category misclassification
+CLF00832,CLF-002,TXN0013604,raw_category,Other,Office Supplies,Category misclassification
+CLF00833,CLF-002,TXN0010831,raw_category,Professional Services,Travel,Category misclassification
+CLF00834,CLF-002,TXN0015539,raw_category,Cloud & Hosting,Facilities,Category misclassification
+CLF00835,CLF-002,TXN0005331,raw_category,Hardware,Professional Services,Category misclassification
+CLF00836,CLF-002,TXN0016244,raw_category,Other,Facilities,Category misclassification
+CLF00837,CLF-002,TXN0005970,raw_category,Facilities,Hardware,Category misclassification
+CLF00838,CLF-002,TXN0008607,raw_category,Other,Hardware,Category misclassification
+CLF00839,CLF-002,TXN0016061,raw_category,Software & SaaS,Marketing,Category misclassification
+CLF00840,CLF-002,TXN0017190,raw_category,Marketing,Facilities,Category misclassification
+CLF00841,CLF-002,TXN0001331,raw_category,Travel,Facilities,Category misclassification
+CLF00842,CLF-002,TXN0003896,raw_category,Professional Services,Cloud & Hosting,Category misclassification
+CLF00843,CLF-002,TXN0007285,raw_category,Telecommunications,Office Supplies,Category misclassification
+CLF00844,CLF-002,TXN0003087,raw_category,Marketing,Professional Services,Category misclassification
+CLF00845,CLF-002,TXN0004013,raw_category,Marketing,Hardware,Category misclassification
+CLF00846,CLF-002,TXN0005845,raw_category,Office Supplies,Cloud & Hosting,Category misclassification
+CLF00847,CLF-002,TXN0000631,raw_category,Hardware,Telecommunications,Category misclassification
+CLF00848,CLF-002,TXN0016917,raw_category,Marketing,Facilities,Category misclassification
+CLF00849,CLF-002,TXN0012625,raw_category,Facilities,Software & SaaS,Category misclassification
+CLF00850,CLF-002,TXN0017517,raw_category,Facilities,Travel,Category misclassification
+CLF00851,CLF-002,TXN0002109,raw_category,Travel,Office Supplies,Category misclassification
+CLF00852,CLF-002,TXN0012302,raw_category,Office Supplies,Other,Category misclassification
+CLF00853,CLF-002,TXN0013297,raw_category,Hardware,Cloud & Hosting,Category misclassification
+CLF00854,CLF-002,TXN0006400,raw_category,Professional Services,Travel,Category misclassification
+CLF00855,CLF-002,TXN0012364,raw_category,Software & SaaS,Cloud & Hosting,Category misclassification
+CLF00856,CLF-002,TXN0004199,raw_category,Marketing,Professional Services,Category misclassification
+CLF00857,CLF-002,TXN0015467,raw_category,Marketing,Facilities,Category misclassification
+CLF00858,CLF-002,TXN0010853,raw_category,Cloud & Hosting,Travel,Category misclassification
+CLF00859,CLF-002,TXN0006634,raw_category,Hardware,Other,Category misclassification
+CLF00860,CLF-002,TXN0007465,raw_category,Software & SaaS,Office Supplies,Category misclassification
+CLF00861,CLF-002,TXN0003357,raw_category,Marketing,Travel,Category misclassification
+CLF00862,CLF-002,TXN0002025,raw_category,Marketing,Travel,Category misclassification
+CLF00863,CLF-002,TXN0017222,raw_category,Travel,Telecommunications,Category misclassification
+CLF00864,CLF-002,TXN0014943,raw_category,Other,Facilities,Category misclassification
+CLF00865,CLF-002,TXN0013143,raw_category,Cloud & Hosting,Other,Category misclassification
+CLF00866,CLF-002,TXN0004578,raw_category,Telecommunications,Facilities,Category misclassification
+CLF00867,CLF-002,TXN0001555,raw_category,Office Supplies,Software & SaaS,Category misclassification
+CLF00868,CLF-002,TXN0015595,raw_category,Professional Services,Office Supplies,Category misclassification
+CLF00869,CLF-002,TXN0006347,raw_category,Office Supplies,Professional Services,Category misclassification
+CLF00870,CLF-002,TXN0005571,raw_category,Hardware,Telecommunications,Category misclassification
+CLF00871,CLF-002,TXN0001192,raw_category,Cloud & Hosting,Telecommunications,Category misclassification
+CLF00872,CLF-002,TXN0005338,raw_category,Facilities,Other,Category misclassification
+CLF00873,CLF-002,TXN0015036,raw_category,Telecommunications,Facilities,Category misclassification
+CLF00874,CLF-002,TXN0000970,raw_category,Travel,Telecommunications,Category misclassification
+CLF00875,CLF-002,TXN0004772,raw_category,Telecommunications,Other,Category misclassification
+CLF00876,CLF-002,TXN0004533,raw_category,Cloud & Hosting,Office Supplies,Category misclassification
+CLF00877,CLF-002,TXN0016671,raw_category,Professional Services,Software & SaaS,Category misclassification
+CLF00878,CLF-002,TXN0007282,raw_category,Other,Office Supplies,Category misclassification
+CLF00879,CLF-002,TXN0003731,raw_category,Hardware,Marketing,Category misclassification
+CLF00880,CLF-002,TXN0003864,raw_category,Telecommunications,Professional Services,Category misclassification
+CLF00881,CLF-002,TXN0001401,raw_category,Office Supplies,Travel,Category misclassification
+CLF00882,CLF-002,TXN0001074,raw_category,Telecommunications,Travel,Category misclassification
+CLF00883,CLF-002,TXN0010859,raw_category,Software & SaaS,Telecommunications,Category misclassification
+CLF00884,CLF-002,TXN0014038,raw_category,Facilities,Office Supplies,Category misclassification
+CLF00885,CLF-002,TXN0012853,raw_category,Marketing,Other,Category misclassification
+CLF00886,CLF-002,TXN0007769,raw_category,Office Supplies,Professional Services,Category misclassification
+CLF00887,CLF-002,TXN0016986,raw_category,Facilities,Travel,Category misclassification
+CLF00888,CLF-002,TXN0012830,raw_category,Professional Services,Office Supplies,Category misclassification
+CLF00889,CLF-002,TXN0009751,raw_category,Office Supplies,Other,Category misclassification
+CLF00890,CLF-002,TXN0002050,raw_category,Travel,Other,Category misclassification
+CLF00891,CLF-002,TXN0007097,raw_category,Software & SaaS,Facilities,Category misclassification
+CLF00892,CLF-002,TXN0009906,raw_category,Travel,Other,Category misclassification
+CLF00893,CLF-002,TXN0009007,raw_category,Software & SaaS,Hardware,Category misclassification
+CLF00894,CLF-002,TXN0000981,raw_category,Telecommunications,Marketing,Category misclassification
+CLF00895,CLF-002,TXN0003078,raw_category,Hardware,Software & SaaS,Category misclassification
+CLF00896,CLF-002,TXN0006953,raw_category,Marketing,Facilities,Category misclassification
+CLF00897,CLF-002,TXN0009939,raw_category,Marketing,Travel,Category misclassification
+CLF00898,CLF-002,TXN0001743,raw_category,Travel,Professional Services,Category misclassification
+CLF00899,CLF-002,TXN0003389,raw_category,Travel,Facilities,Category misclassification
+CLF00900,CLF-002,TXN0013393,raw_category,Software & SaaS,Marketing,Category misclassification
+CLF00901,CLF-002,TXN0005820,raw_category,Hardware,Facilities,Category misclassification
+CLF00902,CLF-002,TXN0002602,raw_category,Professional Services,Other,Category misclassification
+CLF00903,CLF-002,TXN0009335,raw_category,Cloud & Hosting,Other,Category misclassification
+CLF00904,CLF-002,TXN0006092,raw_category,Other,Hardware,Category misclassification
+CLF00905,CLF-002,TXN0003826,raw_category,Software & SaaS,Hardware,Category misclassification
+CLF00906,CLF-002,TXN0001218,raw_category,Facilities,Telecommunications,Category misclassification
+CLF00907,CLF-002,TXN0012294,raw_category,Travel,Facilities,Category misclassification
+CLF00908,CLF-002,TXN0013016,raw_category,Software & SaaS,Telecommunications,Category misclassification
+CLF00909,CLF-002,TXN0005746,raw_category,Other,Office Supplies,Category misclassification
+CLF00910,CLF-002,TXN0008896,raw_category,Facilities,Other,Category misclassification
+CLF00911,CLF-002,TXN0011160,raw_category,Software & SaaS,Professional Services,Category misclassification
+CLF00912,CLF-002,TXN0000725,raw_category,Travel,Marketing,Category misclassification
+CLF00913,CLF-002,TXN0016903,raw_category,Other,Cloud & Hosting,Category misclassification
+CLF00914,CLF-002,TXN0016802,raw_category,Facilities,Marketing,Category misclassification
+CLF00915,CLF-002,TXN0011928,raw_category,Cloud & Hosting,Hardware,Category misclassification
+CLF00916,CLF-002,TXN0013229,raw_category,Professional Services,Office Supplies,Category misclassification
+CLF00917,CLF-002,TXN0005457,raw_category,Cloud & Hosting,Travel,Category misclassification
+CLF00918,CLF-002,TXN0015283,raw_category,Other,Travel,Category misclassification
+CLF00919,CLF-002,TXN0012506,raw_category,Cloud & Hosting,Marketing,Category misclassification
+CLF00920,CLF-002,TXN0012300,raw_category,Telecommunications,Other,Category misclassification
+CLF00921,CLF-002,TXN0015871,raw_category,Software & SaaS,Travel,Category misclassification
+CLF00922,CLF-002,TXN0006777,raw_category,Other,Cloud & Hosting,Category misclassification
+CLF00923,CLF-002,TXN0013219,raw_category,Other,Office Supplies,Category misclassification
+CLF00924,CLF-002,TXN0014679,raw_category,Other,Office Supplies,Category misclassification
+CLF00925,CLF-002,TXN0014018,raw_category,Software & SaaS,Hardware,Category misclassification
+CLF00926,CLF-002,TXN0009193,raw_category,Facilities,Marketing,Category misclassification
+CLF00927,CLF-002,TXN0007712,raw_category,Facilities,Marketing,Category misclassification
+CLF00928,CLF-002,TXN0006395,raw_category,Travel,Cloud & Hosting,Category misclassification
+CLF00929,CLF-002,TXN0002396,raw_category,Travel,Professional Services,Category misclassification
+CLF00930,CLF-002,TXN0005438,raw_category,Cloud & Hosting,Travel,Category misclassification
+CLF00931,CLF-002,TXN0009661,raw_category,Hardware,Software & SaaS,Category misclassification
+CLF00932,CLF-002,TXN0012442,raw_category,Office Supplies,Software & SaaS,Category misclassification
+CLF00933,CLF-002,TXN0005709,raw_category,Marketing,Travel,Category misclassification
+CLF00934,CLF-002,TXN0003977,raw_category,Telecommunications,Marketing,Category misclassification
+CLF00935,CLF-002,TXN0010789,raw_category,Marketing,Software & SaaS,Category misclassification
+CLF00936,CLF-002,TXN0014556,raw_category,Cloud & Hosting,Travel,Category misclassification
+CLF00937,CLF-002,TXN0014024,raw_category,Cloud & Hosting,Travel,Category misclassification
+CLF00938,CLF-002,TXN0002798,raw_category,Marketing,Professional Services,Category misclassification
+CLF00939,CLF-002,TXN0016651,raw_category,Professional Services,Telecommunications,Category misclassification
+CLF00940,CLF-002,TXN0002860,raw_category,Hardware,Professional Services,Category misclassification
+CLF00941,CLF-002,TXN0001175,raw_category,Marketing,Hardware,Category misclassification
+CLF00942,CLF-002,TXN0003444,raw_category,Travel,Telecommunications,Category misclassification
+CLF00943,CLF-002,TXN0004952,raw_category,Software & SaaS,Professional Services,Category misclassification
+CLF00944,CLF-002,TXN0009104,raw_category,Office Supplies,Facilities,Category misclassification
+CLF00945,CLF-002,TXN0013553,raw_category,Office Supplies,Travel,Category misclassification
+CLF00946,CLF-002,TXN0015943,raw_category,Hardware,Cloud & Hosting,Category misclassification
+CLF00947,CLF-002,TXN0005612,raw_category,Cloud & Hosting,Professional Services,Category misclassification
+CLF00948,CLF-002,TXN0016857,raw_category,Office Supplies,Cloud & Hosting,Category misclassification
+CLF00949,CLF-002,TXN0007452,raw_category,Facilities,Cloud & Hosting,Category misclassification
+CLF00950,CLF-002,TXN0011917,raw_category,Other,Hardware,Category misclassification
+CLF00951,CLF-002,TXN0000503,raw_category,Other,Software & SaaS,Category misclassification
+CLF00952,CLF-002,TXN0000063,raw_category,Other,Office Supplies,Category misclassification
+CLF00953,CLF-002,TXN0003186,raw_category,Hardware,Telecommunications,Category misclassification
+CLF00954,CLF-002,TXN0001085,raw_category,Office Supplies,Marketing,Category misclassification
+CLF00955,CLF-002,TXN0003309,raw_category,Hardware,Cloud & Hosting,Category misclassification
+CLF00956,CLF-002,TXN0006263,raw_category,Software & SaaS,Telecommunications,Category misclassification
+CLF00957,CLF-002,TXN0003162,raw_category,Professional Services,Facilities,Category misclassification
+CLF00958,CLF-002,TXN0013362,raw_category,Facilities,Telecommunications,Category misclassification
+CLF00959,CLF-002,TXN0012526,raw_category,Professional Services,Telecommunications,Category misclassification
+CLF00960,CLF-002,TXN0014023,raw_category,Cloud & Hosting,Facilities,Category misclassification
+CLF00961,CLF-002,TXN0010978,raw_category,Telecommunications,Software & SaaS,Category misclassification
+CLF00962,CLF-002,TXN0009300,raw_category,Travel,Facilities,Category misclassification
+CLF00963,CLF-002,TXN0005053,raw_category,Software & SaaS,Facilities,Category misclassification
+CLF00964,CLF-002,TXN0000062,raw_category,Telecommunications,Office Supplies,Category misclassification
+CLF00965,CLF-002,TXN0004277,raw_category,Other,Facilities,Category misclassification
+CLF00966,CLF-002,TXN0007586,raw_category,Other,Travel,Category misclassification
+CLF00967,CLF-002,TXN0005440,raw_category,Facilities,Cloud & Hosting,Category misclassification
+CLF00968,CLF-002,TXN0013215,raw_category,Facilities,Marketing,Category misclassification
+CLF00969,CLF-002,TXN0011976,raw_category,Hardware,Telecommunications,Category misclassification
+CLF00970,CLF-002,TXN0011766,raw_category,Office Supplies,Marketing,Category misclassification
+CLF00971,CLF-002,TXN0011059,raw_category,Professional Services,Office Supplies,Category misclassification
+CLF00972,CLF-002,TXN0013940,raw_category,Travel,Office Supplies,Category misclassification
+CLF00973,CLF-002,TXN0008609,raw_category,Telecommunications,Professional Services,Category misclassification
+CLF00974,CLF-002,TXN0003974,raw_category,Facilities,Software & SaaS,Category misclassification
+CLF00975,CLF-002,TXN0008410,raw_category,Telecommunications,Office Supplies,Category misclassification
+CLF00976,CLF-002,TXN0017143,raw_category,Travel,Cloud & Hosting,Category misclassification
+CLF00977,CLF-002,TXN0006326,raw_category,Facilities,Telecommunications,Category misclassification
+CLF00978,CLF-002,TXN0010808,raw_category,Cloud & Hosting,Professional Services,Category misclassification
+CLF00979,CLF-002,TXN0009422,raw_category,Office Supplies,Other,Category misclassification
+CLF00980,CLF-002,TXN0001250,raw_category,Facilities,Telecommunications,Category misclassification
+CLF00981,CLF-002,TXN0004050,raw_category,Facilities,Hardware,Category misclassification
+CLF00982,CLF-002,TXN0002324,raw_category,Cloud & Hosting,Telecommunications,Category misclassification
+CLF00983,CLF-002,TXN0007380,raw_category,Office Supplies,Facilities,Category misclassification
+CLF00984,CLF-002,TXN0009328,raw_category,Professional Services,Telecommunications,Category misclassification
+CLF00985,CLF-002,TXN0001614,raw_category,Office Supplies,Facilities,Category misclassification
+CLF00986,CLF-002,TXN0010768,raw_category,Cloud & Hosting,Office Supplies,Category misclassification
+CLF00987,CLF-002,TXN0010715,raw_category,Travel,Professional Services,Category misclassification
+CLF00988,CLF-002,TXN0007850,raw_category,Hardware,Facilities,Category misclassification
+CLF00989,CLF-002,TXN0015905,raw_category,Office Supplies,Professional Services,Category misclassification
+CLF00990,CLF-002,TXN0011612,raw_category,Other,Professional Services,Category misclassification
+CLF00991,CLF-002,TXN0012466,raw_category,Software & SaaS,Travel,Category misclassification
+CLF00992,CLF-002,TXN0002057,raw_category,Software & SaaS,Travel,Category misclassification
+CLF00993,CLF-002,TXN0015754,raw_category,Facilities,Travel,Category misclassification
+CLF00994,CLF-002,TXN0015050,raw_category,Other,Cloud & Hosting,Category misclassification
+CLF00995,CLF-002,TXN0011298,raw_category,Hardware,Other,Category misclassification
+CLF00996,CLF-002,TXN0002441,raw_category,Cloud & Hosting,Telecommunications,Category misclassification
+CLF00997,CLF-002,TXN0010086,raw_category,Facilities,Other,Category misclassification
+CLF00998,CLF-002,TXN0009197,raw_category,Other,Professional Services,Category misclassification
+CLF00999,CLF-002,TXN0010691,raw_category,Telecommunications,Travel,Category misclassification
+CLF01000,CLF-002,TXN0015427,raw_category,Facilities,Telecommunications,Category misclassification
+CLF01001,CLF-002,TXN0008549,raw_category,Travel,Other,Category misclassification
+CLF01002,CLF-002,TXN0011647,raw_category,Facilities,Hardware,Category misclassification
+CLF01003,CLF-002,TXN0016307,raw_category,Other,Software & SaaS,Category misclassification
+CLF01004,CLF-002,TXN0000658,raw_category,Other,Marketing,Category misclassification
+CLF01005,CLF-002,TXN0016426,raw_category,Hardware,Software & SaaS,Category misclassification
+CLF01006,CLF-002,TXN0004796,raw_category,Professional Services,Office Supplies,Category misclassification
+CLF01007,CLF-002,TXN0000949,raw_category,Cloud & Hosting,Hardware,Category misclassification
+CLF01008,CLF-002,TXN0006084,raw_category,Other,Telecommunications,Category misclassification
+CLF01009,CLF-002,TXN0012241,raw_category,Telecommunications,Travel,Category misclassification
+CLF01010,CLF-002,TXN0017830,raw_category,Cloud & Hosting,Marketing,Category misclassification
+CLF01011,CLF-002,TXN0013988,raw_category,Hardware,Marketing,Category misclassification
+CLF01012,CLF-002,TXN0002638,raw_category,Office Supplies,Cloud & Hosting,Category misclassification
+CLF01013,CLF-002,TXN0002701,raw_category,Travel,Hardware,Category misclassification
+CLF01014,CLF-002,TXN0005089,raw_category,Software & SaaS,Telecommunications,Category misclassification
+CLF01015,CLF-002,TXN0007743,raw_category,Marketing,Hardware,Category misclassification
+CLF01016,CLF-002,TXN0014882,raw_category,Marketing,Hardware,Category misclassification
+CLF01017,CLF-002,TXN0013797,raw_category,Professional Services,Office Supplies,Category misclassification
+CLF01018,CLF-002,TXN0005910,raw_category,Marketing,Hardware,Category misclassification
+CLF01019,CLF-002,TXN0010071,raw_category,Travel,Office Supplies,Category misclassification
+CLF01020,CLF-002,TXN0013818,raw_category,Marketing,Software & SaaS,Category misclassification
+CLF01021,CLF-002,TXN0006376,raw_category,Travel,Professional Services,Category misclassification
+CLF01022,CLF-002,TXN0016194,raw_category,Cloud & Hosting,Professional Services,Category misclassification
+CLF01023,CLF-002,TXN0016702,raw_category,Cloud & Hosting,Professional Services,Category misclassification
+CLF01024,CLF-002,TXN0007499,raw_category,Telecommunications,Other,Category misclassification
+CLF01025,CLF-002,TXN0003578,raw_category,Travel,Professional Services,Category misclassification
+CLF01026,CLF-002,TXN0000881,raw_category,Office Supplies,Cloud & Hosting,Category misclassification
+CLF01027,CLF-002,TXN0016377,raw_category,Office Supplies,Software & SaaS,Category misclassification
+CLF01028,CLF-002,TXN0000396,raw_category,Professional Services,Office Supplies,Category misclassification
+CLF01029,CLF-002,TXN0013722,raw_category,Professional Services,Hardware,Category misclassification
+CLF01030,CLF-002,TXN0007803,raw_category,Hardware,Professional Services,Category misclassification
+CLF01031,CLF-002,TXN0006774,raw_category,Professional Services,Office Supplies,Category misclassification
+CLF01032,CLF-002,TXN0004012,raw_category,Telecommunications,Other,Category misclassification
+CLF01033,CLF-002,TXN0010962,raw_category,Telecommunications,Office Supplies,Category misclassification
+CLF01034,CLF-002,TXN0015735,raw_category,Professional Services,Software & SaaS,Category misclassification
+CLF01035,CLF-002,TXN0011902,raw_category,Office Supplies,Facilities,Category misclassification
+CLF01036,CLF-002,TXN0006157,raw_category,Cloud & Hosting,Professional Services,Category misclassification
+CLF01037,CLF-002,TXN0001225,raw_category,Software & SaaS,Cloud & Hosting,Category misclassification
+CLF01038,CLF-002,TXN0003202,raw_category,Hardware,Marketing,Category misclassification
+CLF01039,CLF-002,TXN0008180,raw_category,Facilities,Office Supplies,Category misclassification
+CLF01040,CLF-002,TXN0004071,raw_category,Hardware,Facilities,Category misclassification
+CLF01041,CLF-002,TXN0006473,raw_category,Hardware,Professional Services,Category misclassification
+CLF01042,CLF-002,TXN0005251,raw_category,Facilities,Professional Services,Category misclassification
+CLF01043,CLF-002,TXN0008949,raw_category,Cloud & Hosting,Professional Services,Category misclassification
+CLF01044,CLF-002,TXN0002478,raw_category,Hardware,Travel,Category misclassification
+CLF01045,CLF-002,TXN0000139,raw_category,Telecommunications,Professional Services,Category misclassification
+CLF01046,CLF-002,TXN0003981,raw_category,Cloud & Hosting,Other,Category misclassification
+CLF01047,CLF-002,TXN0005591,raw_category,Hardware,Other,Category misclassification
+CLF01048,CLF-002,TXN0007268,raw_category,Marketing,Hardware,Category misclassification
+CLF01049,CLF-002,TXN0006428,raw_category,Software & SaaS,Professional Services,Category misclassification
+CLF01050,CLF-002,TXN0009087,raw_category,Office Supplies,Professional Services,Category misclassification
+CLF01051,CLF-003,TXN0015749,raw_category,Cloud & Hosting,None,Missing category
+CLF01052,CLF-003,TXN0002488,raw_category,Office Supplies,None,Missing category
+CLF01053,CLF-003,TXN0016638,raw_category,Telecommunications,None,Missing category
+CLF01054,CLF-003,TXN0015051,raw_category,Telecommunications,None,Missing category
+CLF01055,CLF-003,TXN0003564,raw_category,Travel,None,Missing category
+CLF01056,CLF-003,TXN0010923,raw_category,Telecommunications,None,Missing category
+CLF01057,CLF-003,TXN0015240,raw_category,Facilities,None,Missing category
+CLF01058,CLF-003,TXN0010312,raw_category,Telecommunications,None,Missing category
+CLF01059,CLF-003,TXN0000109,raw_category,Professional Services,None,Missing category
+CLF01060,CLF-003,TXN0009066,raw_category,Hardware,None,Missing category
+CLF01061,CLF-003,TXN0009463,raw_category,Software & SaaS,None,Missing category
+CLF01062,CLF-003,TXN0008896,raw_category,Other,None,Missing category
+CLF01063,CLF-003,TXN0016666,raw_category,Marketing,None,Missing category
+CLF01064,CLF-003,TXN0016831,raw_category,Facilities,None,Missing category
+CLF01065,CLF-003,TXN0000626,raw_category,Hardware,None,Missing category
+CLF01066,CLF-003,TXN0004232,raw_category,Office Supplies,None,Missing category
+CLF01067,CLF-003,TXN0000008,raw_category,Other,None,Missing category
+CLF01068,CLF-003,TXN0016248,raw_category,Other,None,Missing category
+CLF01069,CLF-003,TXN0015774,raw_category,Cloud & Hosting,None,Missing category
+CLF01070,CLF-003,TXN0010251,raw_category,Office Supplies,None,Missing category
+CLF01071,CLF-003,TXN0013291,raw_category,Marketing,None,Missing category
+CLF01072,CLF-003,TXN0001913,raw_category,Software & SaaS,None,Missing category
+CLF01073,CLF-003,TXN0014327,raw_category,Other,None,Missing category
+CLF01074,CLF-003,TXN0016452,raw_category,Marketing,None,Missing category
+CLF01075,CLF-003,TXN0007798,raw_category,Hardware,None,Missing category
+CLF01076,CLF-003,TXN0014326,raw_category,Cloud & Hosting,None,Missing category
+CLF01077,CLF-003,TXN0001129,raw_category,Office Supplies,None,Missing category
+CLF01078,CLF-003,TXN0017132,raw_category,Professional Services,None,Missing category
+CLF01079,CLF-003,TXN0010457,raw_category,Telecommunications,None,Missing category
+CLF01080,CLF-003,TXN0011394,raw_category,Facilities,None,Missing category
+CLF01081,CLF-003,TXN0011440,raw_category,Marketing,None,Missing category
+CLF01082,CLF-003,TXN0014776,raw_category,Telecommunications,None,Missing category
+CLF01083,CLF-003,TXN0000307,raw_category,Travel,None,Missing category
+CLF01084,CLF-003,TXN0015176,raw_category,Hardware,None,Missing category
+CLF01085,CLF-003,TXN0015673,raw_category,Office Supplies,None,Missing category
+CLF01086,CLF-003,TXN0005977,raw_category,Telecommunications,None,Missing category
+CLF01087,CLF-003,TXN0016036,raw_category,Hardware,None,Missing category
+CLF01088,CLF-003,TXN0003507,raw_category,Professional Services,None,Missing category
+CLF01089,CLF-003,TXN0013678,raw_category,Facilities,None,Missing category
+CLF01090,CLF-003,TXN0005690,raw_category,Telecommunications,None,Missing category
+CLF01091,CLF-003,TXN0016611,raw_category,Facilities,None,Missing category
+CLF01092,CLF-003,TXN0003847,raw_category,Facilities,None,Missing category
+CLF01093,CLF-003,TXN0011532,raw_category,Professional Services,None,Missing category
+CLF01094,CLF-003,TXN0015148,raw_category,Travel,None,Missing category
+CLF01095,CLF-003,TXN0009324,raw_category,Software & SaaS,None,Missing category
+CLF01096,CLF-003,TXN0012233,raw_category,Office Supplies,None,Missing category
+CLF01097,CLF-003,TXN0003035,raw_category,Cloud & Hosting,None,Missing category
+CLF01098,CLF-003,TXN0007208,raw_category,Office Supplies,None,Missing category
+CLF01099,CLF-003,TXN0006567,raw_category,Telecommunications,None,Missing category
+CLF01100,CLF-003,TXN0017468,raw_category,Cloud & Hosting,None,Missing category
+CLF01101,CLF-003,TXN0013103,raw_category,Cloud & Hosting,None,Missing category
+CLF01102,CLF-003,TXN0004793,raw_category,Software & SaaS,None,Missing category
+CLF01103,CLF-003,TXN0013728,raw_category,Facilities,None,Missing category
+CLF01104,CLF-003,TXN0002254,raw_category,Office Supplies,None,Missing category
+CLF01105,CLF-003,TXN0013083,raw_category,Telecommunications,None,Missing category
+CLF01106,CLF-003,TXN0000298,raw_category,Software & SaaS,None,Missing category
+CLF01107,CLF-003,TXN0009038,raw_category,Hardware,None,Missing category
+CLF01108,CLF-003,TXN0006318,raw_category,Hardware,None,Missing category
+CLF01109,CLF-003,TXN0004245,raw_category,Marketing,None,Missing category
+CLF01110,CLF-003,TXN0000607,raw_category,Cloud & Hosting,None,Missing category
+CLF01111,CLF-003,TXN0017478,raw_category,Professional Services,None,Missing category
+CLF01112,CLF-003,TXN0007712,raw_category,Marketing,None,Missing category
+CLF01113,CLF-003,TXN0006812,raw_category,Software & SaaS,None,Missing category
+CLF01114,CLF-003,TXN0006339,raw_category,Office Supplies,None,Missing category
+CLF01115,CLF-003,TXN0009285,raw_category,Facilities,None,Missing category
+CLF01116,CLF-003,TXN0006202,raw_category,Telecommunications,None,Missing category
+CLF01117,CLF-003,TXN0013851,raw_category,Cloud & Hosting,None,Missing category
+CLF01118,CLF-003,TXN0010103,raw_category,Marketing,None,Missing category
+CLF01119,CLF-003,TXN0012691,raw_category,Office Supplies,None,Missing category
+CLF01120,CLF-003,TXN0009937,raw_category,Facilities,None,Missing category
+CLF01121,CLF-003,TXN0011691,raw_category,Office Supplies,None,Missing category
+CLF01122,CLF-003,TXN0001143,raw_category,Cloud & Hosting,None,Missing category
+CLF01123,CLF-003,TXN0014261,raw_category,Professional Services,None,Missing category
+CLF01124,CLF-003,TXN0002747,raw_category,Hardware,None,Missing category
+CLF01125,CLF-003,TXN0010805,raw_category,Office Supplies,None,Missing category
+CLF01126,CLF-003,TXN0000983,raw_category,Hardware,None,Missing category
+CLF01127,CLF-003,TXN0011199,raw_category,Marketing,None,Missing category
+CLF01128,CLF-003,TXN0013597,raw_category,Other,None,Missing category
+CLF01129,CLF-003,TXN0010033,raw_category,Other,None,Missing category
+CLF01130,CLF-003,TXN0005946,raw_category,Marketing,None,Missing category
+CLF01131,CLF-003,TXN0013267,raw_category,Marketing,None,Missing category
+CLF01132,CLF-003,TXN0001759,raw_category,Other,None,Missing category
+CLF01133,CLF-003,TXN0004268,raw_category,Professional Services,None,Missing category
+CLF01134,CLF-003,TXN0010204,raw_category,Travel,None,Missing category
+CLF01135,CLF-003,TXN0017762,raw_category,Cloud & Hosting,None,Missing category
+CLF01136,CLF-003,TXN0007736,raw_category,Facilities,None,Missing category
+CLF01137,CLF-003,TXN0002460,raw_category,Software & SaaS,None,Missing category
+CLF01138,CLF-003,TXN0008376,raw_category,Marketing,None,Missing category
+CLF01139,CLF-003,TXN0005021,raw_category,Office Supplies,None,Missing category
+CLF01140,CLF-003,TXN0013531,raw_category,Software & SaaS,None,Missing category
+CLF01141,CLF-003,TXN0007008,raw_category,Software & SaaS,None,Missing category
+CLF01142,CLF-003,TXN0009713,raw_category,Professional Services,None,Missing category
+CLF01143,CLF-003,TXN0004494,raw_category,Travel,None,Missing category
+CLF01144,CLF-003,TXN0010979,raw_category,Facilities,None,Missing category
+CLF01145,CLF-003,TXN0011530,raw_category,Facilities,None,Missing category
+CLF01146,CLF-003,TXN0017520,raw_category,Travel,None,Missing category
+CLF01147,CLF-003,TXN0010467,raw_category,Telecommunications,None,Missing category
+CLF01148,CLF-003,TXN0001718,raw_category,Cloud & Hosting,None,Missing category
+CLF01149,CLF-003,TXN0011726,raw_category,Telecommunications,None,Missing category
+CLF01150,CLF-003,TXN0002694,raw_category,Marketing,None,Missing category
+CLF01151,CLF-003,TXN0001947,raw_category,Travel,None,Missing category
+CLF01152,CLF-003,TXN0005556,raw_category,Facilities,None,Missing category
+CLF01153,CLF-003,TXN0006539,raw_category,Hardware,None,Missing category
+CLF01154,CLF-003,TXN0000414,raw_category,Software & SaaS,None,Missing category
+CLF01155,CLF-003,TXN0001597,raw_category,Cloud & Hosting,None,Missing category
+CLF01156,CLF-003,TXN0015630,raw_category,Travel,None,Missing category
+CLF01157,CLF-003,TXN0012050,raw_category,Telecommunications,None,Missing category
+CLF01158,CLF-003,TXN0008147,raw_category,Office Supplies,None,Missing category
+CLF01159,CLF-003,TXN0014266,raw_category,Facilities,None,Missing category
+CLF01160,CLF-003,TXN0012750,raw_category,Marketing,None,Missing category
+CLF01161,CLF-003,TXN0013768,raw_category,Marketing,None,Missing category
+CLF01162,CLF-003,TXN0010141,raw_category,Software & SaaS,None,Missing category
+CLF01163,CLF-003,TXN0015185,raw_category,Telecommunications,None,Missing category
+CLF01164,CLF-003,TXN0013923,raw_category,Travel,None,Missing category
+CLF01165,CLF-003,TXN0014958,raw_category,Facilities,None,Missing category
+CLF01166,CLF-003,TXN0014813,raw_category,Marketing,None,Missing category
+CLF01167,CLF-003,TXN0009188,raw_category,Cloud & Hosting,None,Missing category
+CLF01168,CLF-003,TXN0007278,raw_category,Professional Services,None,Missing category
+CLF01169,CLF-003,TXN0000080,raw_category,Office Supplies,None,Missing category
+CLF01170,CLF-003,TXN0012382,raw_category,Marketing,None,Missing category
+CLF01171,CLF-004,TXN0001935,transaction_id,TXN0001935,TXN0001557,Duplicate transaction identifier
+CLF01172,CLF-004,TXN0000211,transaction_id,TXN0000211,TXN0000088,Duplicate transaction identifier
+CLF01173,CLF-004,TXN0002010,transaction_id,TXN0002010,TXN0000594,Duplicate transaction identifier
+CLF01174,CLF-004,TXN0006983,transaction_id,TXN0006983,TXN0000907,Duplicate transaction identifier
+CLF01175,CLF-004,TXN0001039,transaction_id,TXN0001039,TXN0000002,Duplicate transaction identifier
+CLF01176,CLF-004,TXN0003017,transaction_id,TXN0003017,TXN0000660,Duplicate transaction identifier
+CLF01177,CLF-004,TXN0001807,transaction_id,TXN0001807,TXN0000548,Duplicate transaction identifier
+CLF01178,CLF-004,TXN0005771,transaction_id,TXN0005771,TXN0004633,Duplicate transaction identifier
+CLF01179,CLF-004,TXN0003575,transaction_id,TXN0003575,TXN0001863,Duplicate transaction identifier
+CLF01180,CLF-004,TXN0012832,transaction_id,TXN0012832,TXN0000071,Duplicate transaction identifier
+CLF01181,CLF-004,TXN0017448,transaction_id,TXN0017448,TXN0006965,Duplicate transaction identifier
+CLF01182,CLF-004,TXN0001536,transaction_id,TXN0001536,TXN0000630,Duplicate transaction identifier
+CLF01183,CLF-004,TXN0009533,transaction_id,TXN0009533,TXN0007115,Duplicate transaction identifier
+CLF01184,CLF-004,TXN0002452,transaction_id,TXN0002452,TXN0000292,Duplicate transaction identifier
+CLF01185,CLF-004,TXN0003196,transaction_id,TXN0003196,TXN0002698,Duplicate transaction identifier
+CLF01186,CLF-004,TXN0011989,transaction_id,TXN0011989,TXN0003297,Duplicate transaction identifier
+CLF01187,CLF-004,TXN0017705,transaction_id,TXN0017705,TXN0017522,Duplicate transaction identifier
+CLF01188,CLF-004,TXN0013914,transaction_id,TXN0013914,TXN0000079,Duplicate transaction identifier
+CLF01189,CLF-004,TXN0003899,transaction_id,TXN0003899,TXN0001735,Duplicate transaction identifier
+CLF01190,CLF-004,TXN0005236,transaction_id,TXN0005236,TXN0001999,Duplicate transaction identifier
+CLF01191,CLF-004,TXN0001772,transaction_id,TXN0001772,TXN0001253,Duplicate transaction identifier
+CLF01192,CLF-004,TXN0017128,transaction_id,TXN0017128,TXN0005276,Duplicate transaction identifier
+CLF01193,CLF-004,TXN0013489,transaction_id,TXN0013489,TXN0011437,Duplicate transaction identifier
+CLF01194,CLF-004,TXN0016232,transaction_id,TXN0016232,TXN0007855,Duplicate transaction identifier
+CLF01195,CLF-004,TXN0017544,transaction_id,TXN0017544,TXN0003727,Duplicate transaction identifier
+CLF01196,CLF-004,TXN0006456,transaction_id,TXN0006456,TXN0004927,Duplicate transaction identifier
+CLF01197,CLF-004,TXN0008053,transaction_id,TXN0008053,TXN0004948,Duplicate transaction identifier
+CLF01198,CLF-004,TXN0002159,transaction_id,TXN0002159,TXN0000398,Duplicate transaction identifier
+CLF01199,CLF-004,TXN0011646,transaction_id,TXN0011646,TXN0005813,Duplicate transaction identifier
+CLF01200,CLF-004,TXN0009577,transaction_id,TXN0009577,TXN0004518,Duplicate transaction identifier
+CLF01201,CLF-004,TXN0010065,transaction_id,TXN0010065,TXN0000304,Duplicate transaction identifier
+CLF01202,CLF-004,TXN0017415,transaction_id,TXN0017415,TXN0009691,Duplicate transaction identifier
+CLF01203,CLF-004,TXN0007278,transaction_id,TXN0007278,TXN0005306,Duplicate transaction identifier
+CLF01204,CLF-004,TXN0010949,transaction_id,TXN0010949,TXN0002926,Duplicate transaction identifier
+CLF01205,CLF-004,TXN0017939,transaction_id,TXN0017939,TXN0009847,Duplicate transaction identifier
+CLF01206,CLF-004,TXN0017255,transaction_id,TXN0017255,TXN0009606,Duplicate transaction identifier
+CLF01207,CLF-004,TXN0005546,transaction_id,TXN0005546,TXN0002602,Duplicate transaction identifier
+CLF01208,CLF-004,TXN0008329,transaction_id,TXN0008329,TXN0007998,Duplicate transaction identifier
+CLF01209,CLF-004,TXN0013070,transaction_id,TXN0013070,TXN0006395,Duplicate transaction identifier
+CLF01210,CLF-004,TXN0003491,transaction_id,TXN0003491,TXN0003290,Duplicate transaction identifier
+CLF01211,CLF-004,TXN0010553,transaction_id,TXN0010553,TXN0009519,Duplicate transaction identifier
+CLF01212,CLF-004,TXN0009107,transaction_id,TXN0009107,TXN0003315,Duplicate transaction identifier
+CLF01213,CLF-004,TXN0011616,transaction_id,TXN0011616,TXN0008666,Duplicate transaction identifier
+CLF01214,CLF-004,TXN0003551,transaction_id,TXN0003551,TXN0001514,Duplicate transaction identifier
+CLF01215,CLF-004,TXN0007799,transaction_id,TXN0007799,TXN0002008,Duplicate transaction identifier
+CLF01216,CLF-004,TXN0016747,transaction_id,TXN0016747,TXN0005436,Duplicate transaction identifier
+CLF01217,CLF-004,TXN0001291,transaction_id,TXN0001291,TXN0000392,Duplicate transaction identifier
+CLF01218,CLF-004,TXN0011819,transaction_id,TXN0011819,TXN0001093,Duplicate transaction identifier
+CLF01219,CLF-004,TXN0016034,transaction_id,TXN0016034,TXN0008337,Duplicate transaction identifier
+CLF01220,CLF-004,TXN0008663,transaction_id,TXN0008663,TXN0003060,Duplicate transaction identifier
+CLF01221,CLF-004,TXN0006870,transaction_id,TXN0006870,TXN0002037,Duplicate transaction identifier
+CLF01222,CLF-004,TXN0012413,transaction_id,TXN0012413,TXN0008282,Duplicate transaction identifier
+CLF01223,CLF-004,TXN0012986,transaction_id,TXN0012986,TXN0004119,Duplicate transaction identifier
+CLF01224,CLF-004,TXN0001333,transaction_id,TXN0001333,TXN0000072,Duplicate transaction identifier
+CLF01225,CLF-004,TXN0006537,transaction_id,TXN0006537,TXN0003326,Duplicate transaction identifier
+CLF01226,CLF-004,TXN0017023,transaction_id,TXN0017023,TXN0014653,Duplicate transaction identifier
+CLF01227,CLF-004,TXN0011111,transaction_id,TXN0011111,TXN0003895,Duplicate transaction identifier
+CLF01228,CLF-004,TXN0009156,transaction_id,TXN0009156,TXN0004931,Duplicate transaction identifier
+CLF01229,CLF-004,TXN0013516,transaction_id,TXN0013516,TXN0002848,Duplicate transaction identifier
+CLF01230,CLF-004,TXN0015306,transaction_id,TXN0015306,TXN0012975,Duplicate transaction identifier
+CLF01231,CLF-004,TXN0003679,transaction_id,TXN0003679,TXN0002432,Duplicate transaction identifier
+CLF01232,CLF-004,TXN0001563,transaction_id,TXN0001563,TXN0001140,Duplicate transaction identifier
+CLF01233,CLF-004,TXN0005592,transaction_id,TXN0005592,TXN0005042,Duplicate transaction identifier
+CLF01234,CLF-004,TXN0003321,transaction_id,TXN0003321,TXN0001432,Duplicate transaction identifier
+CLF01235,CLF-004,TXN0010099,transaction_id,TXN0010099,TXN0004825,Duplicate transaction identifier
+CLF01236,CLF-004,TXN0004252,transaction_id,TXN0004252,TXN0000764,Duplicate transaction identifier
+CLF01237,CLF-004,TXN0011454,transaction_id,TXN0011454,TXN0004749,Duplicate transaction identifier
+CLF01238,CLF-004,TXN0001225,transaction_id,TXN0001225,TXN0000056,Duplicate transaction identifier
+CLF01239,CLF-004,TXN0012517,transaction_id,TXN0012517,TXN0009904,Duplicate transaction identifier
+CLF01240,CLF-004,TXN0004549,transaction_id,TXN0004549,TXN0003294,Duplicate transaction identifier
+CLF01241,CLF-004,TXN0000242,transaction_id,TXN0000242,TXN0000037,Duplicate transaction identifier
+CLF01242,CLF-004,TXN0009021,transaction_id,TXN0009021,TXN0006297,Duplicate transaction identifier
+CLF01243,CLF-004,TXN0014697,transaction_id,TXN0014697,TXN0000549,Duplicate transaction identifier
+CLF01244,CLF-004,TXN0011883,transaction_id,TXN0011883,TXN0011691,Duplicate transaction identifier
+CLF01245,CLF-004,TXN0013134,transaction_id,TXN0013134,TXN0006898,Duplicate transaction identifier
+CLF01246,CLF-004,TXN0015880,transaction_id,TXN0015880,TXN0013441,Duplicate transaction identifier
+CLF01247,CLF-004,TXN0008711,transaction_id,TXN0008711,TXN0007233,Duplicate transaction identifier
+CLF01248,CLF-004,TXN0004779,transaction_id,TXN0004779,TXN0001728,Duplicate transaction identifier
+CLF01249,CLF-004,TXN0007575,transaction_id,TXN0007575,TXN0007339,Duplicate transaction identifier
+CLF01250,CLF-004,TXN0011230,transaction_id,TXN0011230,TXN0004652,Duplicate transaction identifier
+CLF01251,CLF-004,TXN0006130,transaction_id,TXN0006130,TXN0004519,Duplicate transaction identifier
+CLF01252,CLF-004,TXN0008588,transaction_id,TXN0008588,TXN0008046,Duplicate transaction identifier
+CLF01253,CLF-004,TXN0016246,transaction_id,TXN0016246,TXN0014424,Duplicate transaction identifier
+CLF01254,CLF-004,TXN0005143,transaction_id,TXN0005143,TXN0000344,Duplicate transaction identifier
+CLF01255,CLF-004,TXN0016145,transaction_id,TXN0016145,TXN0006998,Duplicate transaction identifier
+CLF01256,CLF-004,TXN0007634,transaction_id,TXN0007634,TXN0000527,Duplicate transaction identifier
+CLF01257,CLF-004,TXN0010029,transaction_id,TXN0010029,TXN0003327,Duplicate transaction identifier
+CLF01258,CLF-004,TXN0017506,transaction_id,TXN0017506,TXN0016116,Duplicate transaction identifier
+CLF01259,CLF-004,TXN0004305,transaction_id,TXN0004305,TXN0002906,Duplicate transaction identifier
+CLF01260,CLF-004,TXN0008621,transaction_id,TXN0008621,TXN0003336,Duplicate transaction identifier
+CLF01261,CLF-004,TXN0009289,transaction_id,TXN0009289,TXN0001951,Duplicate transaction identifier
+CLF01262,CLF-004,TXN0002173,transaction_id,TXN0002173,TXN0000970,Duplicate transaction identifier
+CLF01263,CLF-004,TXN0006954,transaction_id,TXN0006954,TXN0002250,Duplicate transaction identifier
+CLF01264,CLF-004,TXN0016965,transaction_id,TXN0016965,TXN0007410,Duplicate transaction identifier
+CLF01265,CLF-004,TXN0015669,transaction_id,TXN0015669,TXN0007308,Duplicate transaction identifier
+CLF01266,CLF-004,TXN0010306,transaction_id,TXN0010306,TXN0005315,Duplicate transaction identifier
+CLF01267,CLF-004,TXN0006323,transaction_id,TXN0006323,TXN0002434,Duplicate transaction identifier
+CLF01268,CLF-004,TXN0012694,transaction_id,TXN0012694,TXN0010303,Duplicate transaction identifier
+CLF01269,CLF-004,TXN0015655,transaction_id,TXN0015655,TXN0000988,Duplicate transaction identifier
+CLF01270,CLF-004,TXN0000098,transaction_id,TXN0000098,TXN0000075,Duplicate transaction identifier
+CLF01271,CLF-004,TXN0010430,transaction_id,TXN0010430,TXN0002384,Duplicate transaction identifier
+CLF01272,CLF-004,TXN0005369,transaction_id,TXN0005369,TXN0001187,Duplicate transaction identifier
+CLF01273,CLF-004,TXN0010797,transaction_id,TXN0010797,TXN0009392,Duplicate transaction identifier
+CLF01274,CLF-004,TXN0010826,transaction_id,TXN0010826,TXN0002530,Duplicate transaction identifier
+CLF01275,CLF-004,TXN0002341,transaction_id,TXN0002341,TXN0001633,Duplicate transaction identifier
+CLF01276,CLF-004,TXN0000530,transaction_id,TXN0000530,TXN0000276,Duplicate transaction identifier
+CLF01277,CLF-004,TXN0006769,transaction_id,TXN0006769,TXN0005164,Duplicate transaction identifier
+CLF01278,CLF-004,TXN0014170,transaction_id,TXN0014170,TXN0010281,Duplicate transaction identifier
+CLF01279,CLF-004,TXN0008453,transaction_id,TXN0008453,TXN0002668,Duplicate transaction identifier
+CLF01280,CLF-004,TXN0016276,transaction_id,TXN0016276,TXN0010114,Duplicate transaction identifier
+CLF01281,CLF-004,TXN0006027,transaction_id,TXN0006027,TXN0000979,Duplicate transaction identifier
+CLF01282,CLF-004,TXN0002968,transaction_id,TXN0002968,TXN0001309,Duplicate transaction identifier
+CLF01283,CLF-004,TXN0014782,transaction_id,TXN0014782,TXN0004711,Duplicate transaction identifier
+CLF01284,CLF-004,TXN0001942,transaction_id,TXN0001942,TXN0000250,Duplicate transaction identifier
+CLF01285,CLF-004,TXN0015686,transaction_id,TXN0015686,TXN0006249,Duplicate transaction identifier
+CLF01286,CLF-004,TXN0011153,transaction_id,TXN0011153,TXN0000924,Duplicate transaction identifier
+CLF01287,CLF-004,TXN0009572,transaction_id,TXN0009572,TXN0000795,Duplicate transaction identifier
+CLF01288,CLF-004,TXN0010185,transaction_id,TXN0010185,TXN0006624,Duplicate transaction identifier
+CLF01289,CLF-004,TXN0014952,transaction_id,TXN0014952,TXN0000324,Duplicate transaction identifier
+CLF01290,CLF-004,TXN0002605,transaction_id,TXN0002605,TXN0001798,Duplicate transaction identifier
+CLF01291,CLF-004,TXN0005201,transaction_id,TXN0005201,TXN0001347,Duplicate transaction identifier
+CLF01292,CLF-004,TXN0002113,transaction_id,TXN0002113,TXN0001186,Duplicate transaction identifier
+CLF01293,CLF-004,TXN0003004,transaction_id,TXN0003004,TXN0000583,Duplicate transaction identifier
+CLF01294,CLF-004,TXN0017633,transaction_id,TXN0017633,TXN0014538,Duplicate transaction identifier
+CLF01295,CLF-004,TXN0012245,transaction_id,TXN0012245,TXN0005125,Duplicate transaction identifier
+CLF01296,CLF-004,TXN0001648,transaction_id,TXN0001648,TXN0001034,Duplicate transaction identifier
+CLF01297,CLF-004,TXN0012907,transaction_id,TXN0012907,TXN0010979,Duplicate transaction identifier
+CLF01298,CLF-004,TXN0011139,transaction_id,TXN0011139,TXN0009458,Duplicate transaction identifier
+CLF01299,CLF-004,TXN0012839,transaction_id,TXN0012839,TXN0001150,Duplicate transaction identifier
+CLF01300,CLF-004,TXN0004153,transaction_id,TXN0004153,TXN0000320,Duplicate transaction identifier
+CLF01301,CLF-004,TXN0016805,transaction_id,TXN0016805,TXN0002922,Duplicate transaction identifier
+CLF01302,CLF-004,TXN0011046,transaction_id,TXN0011046,TXN0001062,Duplicate transaction identifier
+CLF01303,CLF-004,TXN0016916,transaction_id,TXN0016916,TXN0012328,Duplicate transaction identifier
+CLF01304,CLF-004,TXN0013293,transaction_id,TXN0013293,TXN0005429,Duplicate transaction identifier
+CLF01305,CLF-004,TXN0001065,transaction_id,TXN0001065,TXN0000934,Duplicate transaction identifier
+CLF01306,CLF-004,TXN0001722,transaction_id,TXN0001722,TXN0001306,Duplicate transaction identifier
+CLF01307,CLF-004,TXN0012123,transaction_id,TXN0012123,TXN0007068,Duplicate transaction identifier
+CLF01308,CLF-004,TXN0008780,transaction_id,TXN0008780,TXN0004284,Duplicate transaction identifier
+CLF01309,CLF-004,TXN0011524,transaction_id,TXN0011524,TXN0010861,Duplicate transaction identifier
+CLF01310,CLF-004,TXN0014048,transaction_id,TXN0014048,TXN0004326,Duplicate transaction identifier
+CLF01311,CLF-004,TXN0005505,transaction_id,TXN0005505,TXN0003454,Duplicate transaction identifier
+CLF01312,CLF-004,TXN0011159,transaction_id,TXN0011159,TXN0005704,Duplicate transaction identifier
+CLF01313,CLF-004,TXN0003182,transaction_id,TXN0003182,TXN0000061,Duplicate transaction identifier
+CLF01314,CLF-004,TXN0011858,transaction_id,TXN0011858,TXN0004376,Duplicate transaction identifier
+CLF01315,CLF-004,TXN0003422,transaction_id,TXN0003422,TXN0001782,Duplicate transaction identifier
+CLF01316,CLF-004,TXN0016653,transaction_id,TXN0016653,TXN0012443,Duplicate transaction identifier
+CLF01317,CLF-004,TXN0003071,transaction_id,TXN0003071,TXN0000194,Duplicate transaction identifier
+CLF01318,CLF-004,TXN0015929,transaction_id,TXN0015929,TXN0011642,Duplicate transaction identifier
+CLF01319,CLF-004,TXN0017575,transaction_id,TXN0017575,TXN0010547,Duplicate transaction identifier
+CLF01320,CLF-004,TXN0013901,transaction_id,TXN0013901,TXN0004816,Duplicate transaction identifier
+CLF01321,CLF-004,TXN0015167,transaction_id,TXN0015167,TXN0007681,Duplicate transaction identifier
+CLF01322,CLF-004,TXN0014528,transaction_id,TXN0014528,TXN0012920,Duplicate transaction identifier
+CLF01323,CLF-004,TXN0005720,transaction_id,TXN0005720,TXN0003795,Duplicate transaction identifier
+CLF01324,CLF-004,TXN0008914,transaction_id,TXN0008914,TXN0000119,Duplicate transaction identifier
+CLF01325,CLF-004,TXN0015708,transaction_id,TXN0015708,TXN0010287,Duplicate transaction identifier
+CLF01326,CLF-004,TXN0013478,transaction_id,TXN0013478,TXN0002600,Duplicate transaction identifier
+CLF01327,CLF-004,TXN0012243,transaction_id,TXN0012243,TXN0000963,Duplicate transaction identifier
+CLF01328,CLF-004,TXN0001102,transaction_id,TXN0001102,TXN0000907,Duplicate transaction identifier
+CLF01329,CLF-004,TXN0016946,transaction_id,TXN0016946,TXN0016446,Duplicate transaction identifier
+CLF01330,CLF-004,TXN0000878,transaction_id,TXN0000878,TXN0000728,Duplicate transaction identifier
+CLF01331,CLF-004,TXN0008204,transaction_id,TXN0008204,TXN0005809,Duplicate transaction identifier
+CLF01332,CLF-004,TXN0003324,transaction_id,TXN0003324,TXN0001855,Duplicate transaction identifier
+CLF01333,CLF-004,TXN0016861,transaction_id,TXN0016861,TXN0000392,Duplicate transaction identifier
+CLF01334,CLF-004,TXN0002736,transaction_id,TXN0002736,TXN0001492,Duplicate transaction identifier
+CLF01335,CLF-004,TXN0000744,transaction_id,TXN0000744,TXN0000476,Duplicate transaction identifier
+CLF01336,CLF-004,TXN0000711,transaction_id,TXN0000711,TXN0000155,Duplicate transaction identifier
+CLF01337,CLF-004,TXN0009967,transaction_id,TXN0009967,TXN0004789,Duplicate transaction identifier
+CLF01338,CLF-004,TXN0001079,transaction_id,TXN0001079,TXN0000004,Duplicate transaction identifier
+CLF01339,CLF-004,TXN0010517,transaction_id,TXN0010517,TXN0002991,Duplicate transaction identifier
+CLF01340,CLF-004,TXN0004817,transaction_id,TXN0004817,TXN0001970,Duplicate transaction identifier
+CLF01341,CLF-004,TXN0014935,transaction_id,TXN0014935,TXN0011549,Duplicate transaction identifier
+CLF01342,CLF-004,TXN0007254,transaction_id,TXN0007254,TXN0004755,Duplicate transaction identifier
+CLF01343,CLF-004,TXN0008005,transaction_id,TXN0008005,TXN0007325,Duplicate transaction identifier
+CLF01344,CLF-004,TXN0016056,transaction_id,TXN0016056,TXN0014682,Duplicate transaction identifier
+CLF01345,CLF-004,TXN0015195,transaction_id,TXN0015195,TXN0013235,Duplicate transaction identifier
+CLF01346,CLF-004,TXN0016502,transaction_id,TXN0016502,TXN0013873,Duplicate transaction identifier
+CLF01347,CLF-004,TXN0012120,transaction_id,TXN0012120,TXN0003978,Duplicate transaction identifier
+CLF01348,CLF-004,TXN0006953,transaction_id,TXN0006953,TXN0001553,Duplicate transaction identifier
+CLF01349,CLF-004,TXN0014183,transaction_id,TXN0014183,TXN0013392,Duplicate transaction identifier
+CLF01350,CLF-004,TXN0009101,transaction_id,TXN0009101,TXN0006075,Duplicate transaction identifier
+CLF01351,CLF-005,TXN0013513,amount_usd,6110.87,61108.7,Injected high-value transaction
+CLF01352,CLF-005,TXN0014781,amount_usd,64.97,649.7,Injected high-value transaction
+CLF01353,CLF-005,TXN0016186,amount_usd,503.98,5039.8,Injected high-value transaction
+CLF01354,CLF-005,TXN0015984,amount_usd,683.3,6833.0,Injected high-value transaction
+CLF01355,CLF-005,TXN0008554,amount_usd,184.78,1847.8,Injected high-value transaction
+CLF01356,CLF-005,TXN0012848,amount_usd,1423.76,14237.6,Injected high-value transaction
+CLF01357,CLF-005,TXN0010356,amount_usd,351.58,3515.8,Injected high-value transaction
+CLF01358,CLF-005,TXN0004926,amount_usd,76.86,768.6,Injected high-value transaction
+CLF01359,CLF-005,TXN0009913,amount_usd,524.82,5248.2,Injected high-value transaction
+CLF01360,CLF-005,TXN0002645,amount_usd,478.36,4783.6,Injected high-value transaction
+CLF01361,CLF-005,TXN0006233,amount_usd,209.54,2095.4,Injected high-value transaction
+CLF01362,CLF-005,TXN0009822,amount_usd,599.36,5993.6,Injected high-value transaction
+CLF01363,CLF-005,TXN0009252,amount_usd,208.69,2086.9,Injected high-value transaction
+CLF01364,CLF-005,TXN0004560,amount_usd,281.42,2814.2,Injected high-value transaction
+CLF01365,CLF-005,TXN0014220,amount_usd,201.56,2015.6,Injected high-value transaction
+CLF01366,CLF-005,TXN0015332,amount_usd,1863.75,18637.5,Injected high-value transaction
+CLF01367,CLF-005,TXN0006900,amount_usd,644.04,6440.4,Injected high-value transaction
+CLF01368,CLF-005,TXN0004087,amount_usd,664.82,6648.2,Injected high-value transaction
+CLF01369,CLF-005,TXN0013405,amount_usd,124.26,1242.6,Injected high-value transaction
+CLF01370,CLF-005,TXN0001229,amount_usd,365.83,3658.3,Injected high-value transaction
+CLF01371,CLF-005,TXN0015177,amount_usd,749.13,7491.3,Injected high-value transaction
+CLF01372,CLF-005,TXN0017347,amount_usd,501.19,5011.9,Injected high-value transaction
+CLF01373,CLF-005,TXN0009682,amount_usd,1002.73,10027.3,Injected high-value transaction
+CLF01374,CLF-005,TXN0004931,amount_usd,1360.03,13600.3,Injected high-value transaction
+CLF01375,CLF-005,TXN0015615,amount_usd,819.48,8194.8,Injected high-value transaction
+CLF01376,CLF-005,TXN0002505,amount_usd,306.3,3063.0,Injected high-value transaction
+CLF01377,CLF-005,TXN0015236,amount_usd,1324.68,13246.8,Injected high-value transaction
+CLF01378,CLF-005,TXN0002209,amount_usd,162.05,1620.5,Injected high-value transaction
+CLF01379,CLF-005,TXN0003733,amount_usd,530.39,5303.9,Injected high-value transaction
+CLF01380,CLF-005,TXN0009265,amount_usd,385.36,3853.6,Injected high-value transaction
+CLF01381,CLF-005,TXN0015916,amount_usd,1470.27,14702.7,Injected high-value transaction
+CLF01382,CLF-005,TXN0009835,amount_usd,363.03,3630.3,Injected high-value transaction
+CLF01383,CLF-005,TXN0008613,amount_usd,545.51,5455.1,Injected high-value transaction
+CLF01384,CLF-005,TXN0008515,amount_usd,815.08,8150.8,Injected high-value transaction
+CLF01385,CLF-005,TXN0015161,amount_usd,186.55,1865.5,Injected high-value transaction
+CLF01386,CLF-005,TXN0001173,amount_usd,316.2,3162.0,Injected high-value transaction
+CLF01387,CLF-005,TXN0015147,amount_usd,528.21,5282.1,Injected high-value transaction
+CLF01388,CLF-005,TXN0003944,amount_usd,672.03,6720.3,Injected high-value transaction
+CLF01389,CLF-005,TXN0016846,amount_usd,204.48,2044.8,Injected high-value transaction
+CLF01390,CLF-005,TXN0009201,amount_usd,41.34,413.4,Injected high-value transaction
+CLF01391,CLF-005,TXN0003430,amount_usd,1146.61,11466.1,Injected high-value transaction
+CLF01392,CLF-005,TXN0002030,amount_usd,674.62,6746.2,Injected high-value transaction
+CLF01393,CLF-005,TXN0001042,amount_usd,374.1,3741.0,Injected high-value transaction
+CLF01394,CLF-005,TXN0004170,amount_usd,949.58,9495.8,Injected high-value transaction
+CLF01395,CLF-005,TXN0001195,amount_usd,194.51,1945.1,Injected high-value transaction
+CLF01396,CLF-005,TXN0012647,amount_usd,544.47,5444.7,Injected high-value transaction
+CLF01397,CLF-005,TXN0000276,amount_usd,1835.39,18353.9,Injected high-value transaction
+CLF01398,CLF-005,TXN0006508,amount_usd,880.19,8801.9,Injected high-value transaction
+CLF01399,CLF-005,TXN0016112,amount_usd,269.59,2695.9,Injected high-value transaction
+CLF01400,CLF-005,TXN0004591,amount_usd,1458.91,14589.1,Injected high-value transaction
+CLF01401,CLF-005,TXN0008749,amount_usd,267.95,2679.5,Injected high-value transaction
+CLF01402,CLF-005,TXN0016558,amount_usd,336.29,3362.9,Injected high-value transaction
+CLF01403,CLF-005,TXN0012557,amount_usd,212.4,2124.0,Injected high-value transaction
+CLF01404,CLF-005,TXN0009115,amount_usd,737.56,7375.6,Injected high-value transaction
+CLF01405,CLF-005,TXN0016693,amount_usd,379.26,3792.6,Injected high-value transaction
+CLF01406,CLF-005,TXN0014813,amount_usd,64.35,643.5,Injected high-value transaction
+CLF01407,CLF-005,TXN0005500,amount_usd,889.27,8892.7,Injected high-value transaction
+CLF01408,CLF-005,TXN0008848,amount_usd,2515.46,25154.6,Injected high-value transaction
+CLF01409,CLF-005,TXN0008823,amount_usd,350.99,3509.9,Injected high-value transaction
+CLF01410,CLF-005,TXN0002223,amount_usd,565.53,5655.3,Injected high-value transaction
+CLF01411,CLF-006,TXN0000305,raw_category,Cloud & Hosting,Office Supplies,Department/category policy exception
+CLF01412,CLF-006,TXN0001523,raw_category,Travel,Cloud & Hosting,Department/category policy exception
+CLF01413,CLF-006,TXN0003864,raw_category,Professional Services,Marketing,Department/category policy exception
+CLF01414,CLF-006,TXN0013487,raw_category,Software & SaaS,Professional Services,Department/category policy exception
+CLF01415,CLF-006,TXN0016473,raw_category,Cloud & Hosting,Cloud & Hosting,Department/category policy exception
+CLF01416,CLF-006,TXN0009453,raw_category,Facilities,Office Supplies,Department/category policy exception
+CLF01417,CLF-006,TXN0005053,raw_category,Facilities,Other,Department/category policy exception
+CLF01418,CLF-006,TXN0002122,raw_category,Telecommunications,Marketing,Department/category policy exception
+CLF01419,CLF-006,TXN0012027,raw_category,Cloud & Hosting,Telecommunications,Department/category policy exception
+CLF01420,CLF-006,TXN0000540,raw_category,Cloud & Hosting,Travel,Department/category policy exception
+CLF01421,CLF-006,TXN0016002,raw_category,Facilities,Travel,Department/category policy exception
+CLF01422,CLF-006,TXN0004762,raw_category,Professional Services,Marketing,Department/category policy exception
+CLF01423,CLF-006,TXN0009410,raw_category,Hardware,Cloud & Hosting,Department/category policy exception
+CLF01424,CLF-006,TXN0013055,raw_category,Professional Services,Cloud & Hosting,Department/category policy exception
+CLF01425,CLF-006,TXN0011497,raw_category,Cloud & Hosting,Other,Department/category policy exception
+CLF01426,CLF-006,TXN0006285,raw_category,Cloud & Hosting,Other,Department/category policy exception
+CLF01427,CLF-006,TXN0015628,raw_category,Travel,Cloud & Hosting,Department/category policy exception
+CLF01428,CLF-006,TXN0001132,raw_category,Facilities,Travel,Department/category policy exception
+CLF01429,CLF-006,TXN0009641,raw_category,Cloud & Hosting,Cloud & Hosting,Department/category policy exception
+CLF01430,CLF-006,TXN0013987,raw_category,Travel,Facilities,Department/category policy exception
+CLF01431,CLF-006,TXN0004737,raw_category,Facilities,Other,Department/category policy exception
+CLF01432,CLF-006,TXN0004876,raw_category,Professional Services,Professional Services,Department/category policy exception
+CLF01433,CLF-006,TXN0016260,raw_category,Cloud & Hosting,Hardware,Department/category policy exception
+CLF01434,CLF-006,TXN0013327,raw_category,Telecommunications,Marketing,Department/category policy exception
+CLF01435,CLF-006,TXN0003018,raw_category,Office Supplies,Office Supplies,Department/category policy exception
+CLF01436,CLF-006,TXN0014803,raw_category,Facilities,Facilities,Department/category policy exception
+CLF01437,CLF-006,TXN0013451,raw_category,Travel,Hardware,Department/category policy exception
+CLF01438,CLF-006,TXN0001170,raw_category,Software & SaaS,Office Supplies,Department/category policy exception
+CLF01439,CLF-006,TXN0004564,raw_category,Other,Facilities,Department/category policy exception
+CLF01440,CLF-006,TXN0000649,raw_category,Cloud & Hosting,Travel,Department/category policy exception
+CLF01441,CLF-006,TXN0008185,raw_category,Other,Telecommunications,Department/category policy exception
+CLF01442,CLF-006,TXN0003382,raw_category,Other,Marketing,Department/category policy exception
+CLF01443,CLF-006,TXN0013278,raw_category,Other,Office Supplies,Department/category policy exception
+CLF01444,CLF-006,TXN0001526,raw_category,Other,Telecommunications,Department/category policy exception
+CLF01445,CLF-006,TXN0002509,raw_category,Facilities,Travel,Department/category policy exception
+CLF01446,CLF-006,TXN0005389,raw_category,Cloud & Hosting,Hardware,Department/category policy exception
+CLF01447,CLF-006,TXN0003213,raw_category,Facilities,Telecommunications,Department/category policy exception
+CLF01448,CLF-006,TXN0015231,raw_category,Software & SaaS,Other,Department/category policy exception
+CLF01449,CLF-006,TXN0006272,raw_category,Software & SaaS,Office Supplies,Department/category policy exception
+CLF01450,CLF-006,TXN0012845,raw_category,Professional Services,Facilities,Department/category policy exception
+CLF01451,CLF-006,TXN0001188,raw_category,Facilities,Travel,Department/category policy exception
+CLF01452,CLF-006,TXN0007871,raw_category,Telecommunications,Marketing,Department/category policy exception
+CLF01453,CLF-006,TXN0001144,raw_category,Cloud & Hosting,Professional Services,Department/category policy exception
+CLF01454,CLF-006,TXN0006563,raw_category,Office Supplies,Professional Services,Department/category policy exception
+CLF01455,CLF-006,TXN0009005,raw_category,Telecommunications,Other,Department/category policy exception
+CLF01456,CLF-006,TXN0001701,raw_category,Telecommunications,Marketing,Department/category policy exception
+CLF01457,CLF-006,TXN0004713,raw_category,Facilities,Facilities,Department/category policy exception
+CLF01458,CLF-006,TXN0010366,raw_category,Professional Services,Hardware,Department/category policy exception
+CLF01459,CLF-006,TXN0009432,raw_category,Marketing,Hardware,Department/category policy exception
+CLF01460,CLF-006,TXN0010798,raw_category,Cloud & Hosting,Facilities,Department/category policy exception
+CLF01461,CLF-006,TXN0002568,raw_category,Software & SaaS,Telecommunications,Department/category policy exception
+CLF01462,CLF-006,TXN0006785,raw_category,Cloud & Hosting,Hardware,Department/category policy exception
+CLF01463,CLF-006,TXN0001360,raw_category,Professional Services,Cloud & Hosting,Department/category policy exception
+CLF01464,CLF-006,TXN0016478,raw_category,Facilities,Telecommunications,Department/category policy exception
+CLF01465,CLF-006,TXN0001480,raw_category,Facilities,Cloud & Hosting,Department/category policy exception
+CLF01466,CLF-006,TXN0008174,raw_category,Cloud & Hosting,Facilities,Department/category policy exception
+CLF01467,CLF-006,TXN0012443,raw_category,Travel,Facilities,Department/category policy exception
+CLF01468,CLF-006,TXN0001437,raw_category,Marketing,Office Supplies,Department/category policy exception
+CLF01469,CLF-006,TXN0014157,raw_category,Office Supplies,Cloud & Hosting,Department/category policy exception
+CLF01470,CLF-006,TXN0013093,raw_category,Professional Services,Cloud & Hosting,Department/category policy exception
+CLF01471,CLF-006,TXN0017238,raw_category,Facilities,Facilities,Department/category policy exception
+CLF01472,CLF-006,TXN0006023,raw_category,Software & SaaS,Marketing,Department/category policy exception
+CLF01473,CLF-006,TXN0004766,raw_category,Cloud & Hosting,Facilities,Department/category policy exception
+CLF01474,CLF-006,TXN0014981,raw_category,Travel,Cloud & Hosting,Department/category policy exception
+CLF01475,CLF-006,TXN0007933,raw_category,Cloud & Hosting,Facilities,Department/category policy exception
+CLF01476,CLF-006,TXN0002118,raw_category,Facilities,Telecommunications,Department/category policy exception
+CLF01477,CLF-006,TXN0005495,raw_category,Facilities,Cloud & Hosting,Department/category policy exception
+CLF01478,CLF-006,TXN0011860,raw_category,Software & SaaS,Facilities,Department/category policy exception
+CLF01479,CLF-006,TXN0005844,raw_category,Other,Hardware,Department/category policy exception
+CLF01480,CLF-006,TXN0008584,raw_category,Facilities,Facilities,Department/category policy exception
+CLF01481,CLF-006,TXN0015802,raw_category,Travel,Office Supplies,Department/category policy exception
+CLF01482,CLF-006,TXN0007564,raw_category,Other,Office Supplies,Department/category policy exception
+CLF01483,CLF-006,TXN0010084,raw_category,Marketing,Cloud & Hosting,Department/category policy exception
+CLF01484,CLF-006,TXN0004232,raw_category,None,Telecommunications,Department/category policy exception
+CLF01485,CLF-006,TXN0013140,raw_category,Telecommunications,Other,Department/category policy exception
+CLF01486,CLF-006,TXN0012548,raw_category,Cloud & Hosting,Office Supplies,Department/category policy exception
+CLF01487,CLF-006,TXN0011068,raw_category,Facilities,Facilities,Department/category policy exception
+CLF01488,CLF-006,TXN0007546,raw_category,Software & SaaS,Telecommunications,Department/category policy exception
+CLF01489,CLF-006,TXN0015694,raw_category,Marketing,Telecommunications,Department/category policy exception
+CLF01490,CLF-006,TXN0007485,raw_category,Other,Facilities,Department/category policy exception
+CLF01491,CLF-006,TXN0012137,raw_category,Telecommunications,Professional Services,Department/category policy exception
+CLF01492,CLF-006,TXN0003666,raw_category,Hardware,Cloud & Hosting,Department/category policy exception
+CLF01493,CLF-006,TXN0009932,raw_category,Telecommunications,Facilities,Department/category policy exception
+CLF01494,CLF-006,TXN0002381,raw_category,Marketing,Facilities,Department/category policy exception
+CLF01495,CLF-006,TXN0002754,raw_category,Office Supplies,Facilities,Department/category policy exception
+CLF01496,CLF-006,TXN0013473,raw_category,Hardware,Hardware,Department/category policy exception
+CLF01497,CLF-006,TXN0010778,raw_category,Facilities,Office Supplies,Department/category policy exception
+CLF01498,CLF-006,TXN0012718,raw_category,Office Supplies,Cloud & Hosting,Department/category policy exception
+CLF01499,CLF-006,TXN0008518,raw_category,Office Supplies,Cloud & Hosting,Department/category policy exception
+CLF01500,CLF-006,TXN0007337,raw_category,Travel,Facilities,Department/category policy exception
+CLF01501,CLF-006,TXN0003814,raw_category,Other,Office Supplies,Department/category policy exception
+CLF01502,CLF-006,TXN0003340,raw_category,Travel,Travel,Department/category policy exception
+CLF01503,CLF-006,TXN0009917,raw_category,Professional Services,Telecommunications,Department/category policy exception
+CLF01504,CLF-006,TXN0010534,raw_category,Hardware,Telecommunications,Department/category policy exception
+CLF01505,CLF-006,TXN0005731,raw_category,Facilities,Hardware,Department/category policy exception
+CLF01506,CLF-006,TXN0008226,raw_category,Marketing,Other,Department/category policy exception
+CLF01507,CLF-006,TXN0016536,raw_category,Cloud & Hosting,Cloud & Hosting,Department/category policy exception
+CLF01508,CLF-006,TXN0001845,raw_category,Hardware,Office Supplies,Department/category policy exception
+CLF01509,CLF-006,TXN0009091,raw_category,Travel,Travel,Department/category policy exception
+CLF01510,CLF-006,TXN0002850,raw_category,Telecommunications,Hardware,Department/category policy exception
+CLF01511,CLF-006,TXN0001418,raw_category,Travel,Cloud & Hosting,Department/category policy exception
+CLF01512,CLF-006,TXN0015690,raw_category,Hardware,Travel,Department/category policy exception
+CLF01513,CLF-006,TXN0011381,raw_category,Marketing,Professional Services,Department/category policy exception
+CLF01514,CLF-006,TXN0004091,raw_category,Hardware,Cloud & Hosting,Department/category policy exception
+CLF01515,CLF-006,TXN0000718,raw_category,Facilities,Hardware,Department/category policy exception
+CLF01516,CLF-006,TXN0008743,raw_category,Hardware,Facilities,Department/category policy exception
+CLF01517,CLF-006,TXN0012665,raw_category,Cloud & Hosting,Telecommunications,Department/category policy exception
+CLF01518,CLF-006,TXN0016604,raw_category,Hardware,Professional Services,Department/category policy exception
+CLF01519,CLF-006,TXN0004727,raw_category,Office Supplies,Cloud & Hosting,Department/category policy exception
+CLF01520,CLF-006,TXN0017204,raw_category,Office Supplies,Facilities,Department/category policy exception
+CLF01521,CLF-006,TXN0014347,raw_category,Office Supplies,Marketing,Department/category policy exception
+CLF01522,CLF-006,TXN0002616,raw_category,Office Supplies,Facilities,Department/category policy exception
+CLF01523,CLF-006,TXN0016741,raw_category,Office Supplies,Other,Department/category policy exception
+CLF01524,CLF-006,TXN0004584,raw_category,Other,Cloud & Hosting,Department/category policy exception
+CLF01525,CLF-006,TXN0005643,raw_category,Facilities,Other,Department/category policy exception
+CLF01526,CLF-006,TXN0001938,raw_category,Office Supplies,Cloud & Hosting,Department/category policy exception
+CLF01527,CLF-006,TXN0001936,raw_category,Professional Services,Telecommunications,Department/category policy exception
+CLF01528,CLF-006,TXN0003616,raw_category,Facilities,Facilities,Department/category policy exception
+CLF01529,CLF-006,TXN0007484,raw_category,Facilities,Cloud & Hosting,Department/category policy exception
+CLF01530,CLF-006,TXN0006218,raw_category,Facilities,Facilities,Department/category policy exception
+CLF01531,CLF-006,TXN0011232,raw_category,Office Supplies,Travel,Department/category policy exception
+CLF01532,CLF-006,TXN0016890,raw_category,Facilities,Cloud & Hosting,Department/category policy exception
+CLF01533,CLF-006,TXN0011882,raw_category,Travel,Office Supplies,Department/category policy exception
+CLF01534,CLF-006,TXN0001251,raw_category,Facilities,Cloud & Hosting,Department/category policy exception
+CLF01535,CLF-006,TXN0005091,raw_category,Facilities,Facilities,Department/category policy exception
+CLF01536,CLF-006,TXN0003751,raw_category,Office Supplies,Marketing,Department/category policy exception
+CLF01537,CLF-006,TXN0008863,raw_category,Cloud & Hosting,Office Supplies,Department/category policy exception
+CLF01538,CLF-006,TXN0011217,raw_category,Facilities,Other,Department/category policy exception
+CLF01539,CLF-006,TXN0009126,raw_category,Hardware,Marketing,Department/category policy exception
+CLF01540,CLF-006,TXN0015316,raw_category,Cloud & Hosting,Facilities,Department/category policy exception
+CLF01541,CLF-006,TXN0012329,raw_category,Software & SaaS,Cloud & Hosting,Department/category policy exception
+CLF01542,CLF-006,TXN0007816,raw_category,Other,Facilities,Department/category policy exception
+CLF01543,CLF-006,TXN0017310,raw_category,Marketing,Telecommunications,Department/category policy exception
+CLF01544,CLF-006,TXN0008759,raw_category,Professional Services,Other,Department/category policy exception
+CLF01545,CLF-006,TXN0012901,raw_category,Facilities,Travel,Department/category policy exception
+CLF01546,CLF-006,TXN0009822,raw_category,Software & SaaS,Facilities,Department/category policy exception
+CLF01547,CLF-006,TXN0009341,raw_category,Professional Services,Professional Services,Department/category policy exception
+CLF01548,CLF-006,TXN0013870,raw_category,Professional Services,Facilities,Department/category policy exception
+CLF01549,CLF-006,TXN0003879,raw_category,Marketing,Cloud & Hosting,Department/category policy exception
+CLF01550,CLF-006,TXN0015745,raw_category,Other,Cloud & Hosting,Department/category policy exception
+CLF01551,CLF-006,TXN0002354,raw_category,Cloud & Hosting,Hardware,Department/category policy exception
+CLF01552,CLF-006,TXN0015206,raw_category,Other,Other,Department/category policy exception
+CLF01553,CLF-006,TXN0008212,raw_category,Professional Services,Other,Department/category policy exception
+CLF01554,CLF-006,TXN0007465,raw_category,Office Supplies,Marketing,Department/category policy exception
+CLF01555,CLF-006,TXN0008240,raw_category,Professional Services,Office Supplies,Department/category policy exception
+CLF01556,CLF-006,TXN0003395,raw_category,Cloud & Hosting,Cloud & Hosting,Department/category policy exception
+CLF01557,CLF-006,TXN0016631,raw_category,Marketing,Facilities,Department/category policy exception
+CLF01558,CLF-006,TXN0012468,raw_category,Marketing,Telecommunications,Department/category policy exception
+CLF01559,CLF-006,TXN0005535,raw_category,Hardware,Cloud & Hosting,Department/category policy exception
+CLF01560,CLF-006,TXN0009488,raw_category,Marketing,Telecommunications,Department/category policy exception
+CLF01561,CLF-006,TXN0010574,raw_category,Travel,Cloud & Hosting,Department/category policy exception
+CLF01562,CLF-006,TXN0016062,raw_category,Professional Services,Hardware,Department/category policy exception
+CLF01563,CLF-006,TXN0012511,raw_category,Cloud & Hosting,Travel,Department/category policy exception
+CLF01564,CLF-006,TXN0007325,raw_category,Hardware,Cloud & Hosting,Department/category policy exception
+CLF01565,CLF-006,TXN0010044,raw_category,Hardware,Cloud & Hosting,Department/category policy exception
+CLF01566,CLF-006,TXN0002884,raw_category,Telecommunications,Cloud & Hosting,Department/category policy exception
+CLF01567,CLF-006,TXN0017293,raw_category,Cloud & Hosting,Other,Department/category policy exception
+CLF01568,CLF-006,TXN0011030,raw_category,Software & SaaS,Hardware,Department/category policy exception
+CLF01569,CLF-006,TXN0000635,raw_category,Professional Services,Telecommunications,Department/category policy exception
+CLF01570,CLF-006,TXN0016771,raw_category,Marketing,Hardware,Department/category policy exception
+CLF01571,CLF-006,TXN0001464,raw_category,Facilities,Telecommunications,Department/category policy exception
+CLF01572,CLF-006,TXN0014710,raw_category,Facilities,Facilities,Department/category policy exception
+CLF01573,CLF-006,TXN0001268,raw_category,Telecommunications,Travel,Department/category policy exception
+CLF01574,CLF-006,TXN0002434,raw_category,Hardware,Professional Services,Department/category policy exception
+CLF01575,CLF-006,TXN0012033,raw_category,Professional Services,Other,Department/category policy exception
+CLF01576,CLF-006,TXN0000453,raw_category,Office Supplies,Other,Department/category policy exception
+CLF01577,CLF-006,TXN0016685,raw_category,Office Supplies,Professional Services,Department/category policy exception
+CLF01578,CLF-006,TXN0000434,raw_category,Cloud & Hosting,Telecommunications,Department/category policy exception
+CLF01579,CLF-006,TXN0013098,raw_category,Travel,Other,Department/category policy exception
+CLF01580,CLF-006,TXN0014244,raw_category,Facilities,Marketing,Department/category policy exception
+CLF01581,CLF-006,TXN0002399,raw_category,Professional Services,Other,Department/category policy exception
+CLF01582,CLF-006,TXN0013915,raw_category,Cloud & Hosting,Hardware,Department/category policy exception
+CLF01583,CLF-006,TXN0007959,raw_category,Marketing,Hardware,Department/category policy exception
+CLF01584,CLF-006,TXN0017387,raw_category,Cloud & Hosting,Hardware,Department/category policy exception
+CLF01585,CLF-006,TXN0005059,raw_category,Hardware,Travel,Department/category policy exception
+CLF01586,CLF-006,TXN0009801,raw_category,Cloud & Hosting,Telecommunications,Department/category policy exception
+CLF01587,CLF-006,TXN0012773,raw_category,Facilities,Other,Department/category policy exception
+CLF01588,CLF-006,TXN0005315,raw_category,Cloud & Hosting,Facilities,Department/category policy exception
+CLF01589,CLF-006,TXN0013940,raw_category,Office Supplies,Hardware,Department/category policy exception
+CLF01590,CLF-006,TXN0000534,raw_category,Travel,Office Supplies,Department/category policy exception
+CLF01591,CLF-006,TXN0012383,raw_category,Travel,Facilities,Department/category policy exception
+CLF01592,CLF-006,TXN0015663,raw_category,Facilities,Marketing,Department/category policy exception
+CLF01593,CLF-006,TXN0009850,raw_category,Telecommunications,Travel,Department/category policy exception
+CLF01594,CLF-006,TXN0005032,raw_category,Facilities,Travel,Department/category policy exception
+CLF01595,CLF-006,TXN0003326,raw_category,Telecommunications,Telecommunications,Department/category policy exception
+CLF01596,CLF-006,TXN0011259,raw_category,Marketing,Facilities,Department/category policy exception
+CLF01597,CLF-006,TXN0014965,raw_category,Office Supplies,Facilities,Department/category policy exception
+CLF01598,CLF-006,TXN0006665,raw_category,Facilities,Telecommunications,Department/category policy exception
+CLF01599,CLF-006,TXN0015985,raw_category,Facilities,Hardware,Department/category policy exception
+CLF01600,CLF-006,TXN0005563,raw_category,Facilities,Travel,Department/category policy exception
+CLF01601,CLF-006,TXN0012699,raw_category,Telecommunications,Professional Services,Department/category policy exception
+CLF01602,CLF-006,TXN0013330,raw_category,Other,Marketing,Department/category policy exception
+CLF01603,CLF-006,TXN0009960,raw_category,Marketing,Professional Services,Department/category policy exception
+CLF01604,CLF-006,TXN0014327,raw_category,None,Facilities,Department/category policy exception
+CLF01605,CLF-006,TXN0000405,raw_category,Facilities,Office Supplies,Department/category policy exception
+CLF01606,CLF-006,TXN0010862,raw_category,Facilities,Hardware,Department/category policy exception
+CLF01607,CLF-006,TXN0000310,raw_category,Marketing,Telecommunications,Department/category policy exception
+CLF01608,CLF-006,TXN0009474,raw_category,Cloud & Hosting,Telecommunications,Department/category policy exception
+CLF01609,CLF-006,TXN0007547,raw_category,Other,Cloud & Hosting,Department/category policy exception
+CLF01610,CLF-006,TXN0016729,raw_category,Cloud & Hosting,Hardware,Department/category policy exception
+CLF01611,CLF-006,TXN0013168,raw_category,Facilities,Cloud & Hosting,Department/category policy exception
+CLF01612,CLF-006,TXN0004314,raw_category,Travel,Professional Services,Department/category policy exception
+CLF01613,CLF-006,TXN0003604,raw_category,Cloud & Hosting,Other,Department/category policy exception
+CLF01614,CLF-006,TXN0015595,raw_category,Office Supplies,Other,Department/category policy exception
+CLF01615,CLF-006,TXN0000233,raw_category,Facilities,Hardware,Department/category policy exception
+CLF01616,CLF-006,TXN0007509,raw_category,Travel,Office Supplies,Department/category policy exception
+CLF01617,CLF-006,TXN0011356,raw_category,Travel,Office Supplies,Department/category policy exception
+CLF01618,CLF-006,TXN0013991,raw_category,Software & SaaS,Travel,Department/category policy exception
+CLF01619,CLF-006,TXN0010904,raw_category,Cloud & Hosting,Facilities,Department/category policy exception
+CLF01620,CLF-006,TXN0002216,raw_category,Cloud & Hosting,Facilities,Department/category policy exception
+CLF01621,CLF-006,TXN0017228,raw_category,Marketing,Marketing,Department/category policy exception
+CLF01622,CLF-006,TXN0012679,raw_category,Professional Services,Other,Department/category policy exception
+CLF01623,CLF-006,TXN0009750,raw_category,Facilities,Hardware,Department/category policy exception
+CLF01624,CLF-006,TXN0008510,raw_category,Telecommunications,Facilities,Department/category policy exception
+CLF01625,CLF-006,TXN0013861,raw_category,Telecommunications,Cloud & Hosting,Department/category policy exception
+CLF01626,CLF-006,TXN0016442,raw_category,Facilities,Telecommunications,Department/category policy exception
+CLF01627,CLF-006,TXN0009016,raw_category,Facilities,Office Supplies,Department/category policy exception
+CLF01628,CLF-006,TXN0017001,raw_category,Office Supplies,Telecommunications,Department/category policy exception
